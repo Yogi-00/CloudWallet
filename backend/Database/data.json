@@ -1,0 +1,4942 @@
+[
+    {
+        "id": 135979,
+        "company": 6,
+        "name": "t4g.nano Linux",
+        "location": "asia.india.mumbai.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "The T4g family in AWS is a burstable performance instance family that is powered by AWS Graviton2 processors, which are based on the Arm architecture. The T4g instances offer a cost-effective option for workloads with variable or bursty compute requirements. Here are some key details about the T4g instance family:\n\nBurstable Performance: T4g instances are designed to provide a baseline level of CPU performance with the ability to burst CPU usage for short periods when needed. This burstable performance is beneficial for applications with intermittent or variable workloads.\n\nAWS Graviton2 Processor: T4g instances are powered by AWS Graviton2 processors, which are custom-designed by AWS based on the Arm architecture. These processors deliver excellent performance, energy efficiency, and cost savings.\n\nInstance Types: The T4g family offers various instance types, including T4g.nano, T4g.micro, T4g.small, T4g.medium, T4g.large, T4g.xlarge, T4g.2xlarge, and more. These instance types provide different combinations of CPU cores, memory, and network capacity.\n\nCost-Effective: T4g instances offer a cost-effective option for workloads that do not consistently require high CPU performance. They provide the benefits of the AWS Graviton2 processors at a lower price point.\n\nSupported by AWS Nitro System: T4g instances leverage the AWS Nitro System, which provides a lightweight hypervisor and offloads various virtualization functions to dedicated hardware, resulting in improved performance and security.\n\nThe T4g instances are suitable for a wide range of workloads, including microservices, small-scale web servers, development environments, and low-traffic applications. They offer a balance of cost-efficiency and performance for workloads that can benefit from burstable CPU performance.",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 536870912.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 625000000.0,
+        "tags": [
+            {
+                "id": 247,
+                "name": "General purpose"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 197,
+                "name": "2.5 GHz"
+            },
+            {
+                "id": 246,
+                "name": "AWS Graviton2 Processor"
+            }
+        ],
+        "price": {
+            "product": 135979,
+            "value": 0.0028,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 140385,
+        "company": 6,
+        "name": "t4g.nano SUSE",
+        "location": "asia.india.mumbai.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "The T4g family in AWS is a burstable performance instance family that is powered by AWS Graviton2 processors, which are based on the Arm architecture. The T4g instances offer a cost-effective option for workloads with variable or bursty compute requirements. Here are some key details about the T4g instance family:\n\nBurstable Performance: T4g instances are designed to provide a baseline level of CPU performance with the ability to burst CPU usage for short periods when needed. This burstable performance is beneficial for applications with intermittent or variable workloads.\n\nAWS Graviton2 Processor: T4g instances are powered by AWS Graviton2 processors, which are custom-designed by AWS based on the Arm architecture. These processors deliver excellent performance, energy efficiency, and cost savings.\n\nInstance Types: The T4g family offers various instance types, including T4g.nano, T4g.micro, T4g.small, T4g.medium, T4g.large, T4g.xlarge, T4g.2xlarge, and more. These instance types provide different combinations of CPU cores, memory, and network capacity.\n\nCost-Effective: T4g instances offer a cost-effective option for workloads that do not consistently require high CPU performance. They provide the benefits of the AWS Graviton2 processors at a lower price point.\n\nSupported by AWS Nitro System: T4g instances leverage the AWS Nitro System, which provides a lightweight hypervisor and offloads various virtualization functions to dedicated hardware, resulting in improved performance and security.\n\nThe T4g instances are suitable for a wide range of workloads, including microservices, small-scale web servers, development environments, and low-traffic applications. They offer a balance of cost-efficiency and performance for workloads that can benefit from burstable CPU performance.",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 536870912.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 625000000.0,
+        "tags": [
+            {
+                "id": 247,
+                "name": "General purpose"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 197,
+                "name": "2.5 GHz"
+            },
+            {
+                "id": 246,
+                "name": "AWS Graviton2 Processor"
+            }
+        ],
+        "price": {
+            "product": 140385,
+            "value": 0.0028,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 168178,
+        "company": 6,
+        "name": "t4g.nano Linux",
+        "location": "asia.india.bengaluru.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "The T4g family in AWS is a burstable performance instance family that is powered by AWS Graviton2 processors, which are based on the Arm architecture. The T4g instances offer a cost-effective option for workloads with variable or bursty compute requirements. Here are some key details about the T4g instance family:\n\nBurstable Performance: T4g instances are designed to provide a baseline level of CPU performance with the ability to burst CPU usage for short periods when needed. This burstable performance is beneficial for applications with intermittent or variable workloads.\n\nAWS Graviton2 Processor: T4g instances are powered by AWS Graviton2 processors, which are custom-designed by AWS based on the Arm architecture. These processors deliver excellent performance, energy efficiency, and cost savings.\n\nInstance Types: The T4g family offers various instance types, including T4g.nano, T4g.micro, T4g.small, T4g.medium, T4g.large, T4g.xlarge, T4g.2xlarge, and more. These instance types provide different combinations of CPU cores, memory, and network capacity.\n\nCost-Effective: T4g instances offer a cost-effective option for workloads that do not consistently require high CPU performance. They provide the benefits of the AWS Graviton2 processors at a lower price point.\n\nSupported by AWS Nitro System: T4g instances leverage the AWS Nitro System, which provides a lightweight hypervisor and offloads various virtualization functions to dedicated hardware, resulting in improved performance and security.\n\nThe T4g instances are suitable for a wide range of workloads, including microservices, small-scale web servers, development environments, and low-traffic applications. They offer a balance of cost-efficiency and performance for workloads that can benefit from burstable CPU performance.",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 536870912.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 625000000.0,
+        "tags": [
+            {
+                "id": 247,
+                "name": "General purpose"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 197,
+                "name": "2.5 GHz"
+            },
+            {
+                "id": 246,
+                "name": "AWS Graviton2 Processor"
+            }
+        ],
+        "price": {
+            "product": 168178,
+            "value": 0.0028,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 200693,
+        "company": 6,
+        "name": "t4g.nano SUSE",
+        "location": "asia.india.bengaluru.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "The T4g family in AWS is a burstable performance instance family that is powered by AWS Graviton2 processors, which are based on the Arm architecture. The T4g instances offer a cost-effective option for workloads with variable or bursty compute requirements. Here are some key details about the T4g instance family:\n\nBurstable Performance: T4g instances are designed to provide a baseline level of CPU performance with the ability to burst CPU usage for short periods when needed. This burstable performance is beneficial for applications with intermittent or variable workloads.\n\nAWS Graviton2 Processor: T4g instances are powered by AWS Graviton2 processors, which are custom-designed by AWS based on the Arm architecture. These processors deliver excellent performance, energy efficiency, and cost savings.\n\nInstance Types: The T4g family offers various instance types, including T4g.nano, T4g.micro, T4g.small, T4g.medium, T4g.large, T4g.xlarge, T4g.2xlarge, and more. These instance types provide different combinations of CPU cores, memory, and network capacity.\n\nCost-Effective: T4g instances offer a cost-effective option for workloads that do not consistently require high CPU performance. They provide the benefits of the AWS Graviton2 processors at a lower price point.\n\nSupported by AWS Nitro System: T4g instances leverage the AWS Nitro System, which provides a lightweight hypervisor and offloads various virtualization functions to dedicated hardware, resulting in improved performance and security.\n\nThe T4g instances are suitable for a wide range of workloads, including microservices, small-scale web servers, development environments, and low-traffic applications. They offer a balance of cost-efficiency and performance for workloads that can benefit from burstable CPU performance.",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 536870912.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 625000000.0,
+        "tags": [
+            {
+                "id": 247,
+                "name": "General purpose"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 197,
+                "name": "2.5 GHz"
+            },
+            {
+                "id": 246,
+                "name": "AWS Graviton2 Processor"
+            }
+        ],
+        "price": {
+            "product": 200693,
+            "value": 0.0028,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 181427,
+        "company": 6,
+        "name": "t3a.nano SUSE",
+        "location": "asia.india.mumbai.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "The T3a family in AWS is a burstable performance instance family that offers a balance of compute power and cost efficiency. These instances are powered by AWS Nitro System technology and are well-suited for workloads that have variable CPU usage patterns. Here are some key details about the T3a instance family:\n\nBurstable Performance: The T3a instances provide baseline CPU performance with the ability to burst CPU usage when needed. They are designed for workloads that have periodic spikes in CPU usage.\n\nProcessor and Architecture: The T3a instances use custom-designed AWS Nitro System processors based on the 64-bit Arm architecture. These processors offer a good balance of performance and efficiency.\n\nCPU Credits: T3a instances earn CPU credits when operating below baseline performance. These credits can be used to burst CPU performance when needed. The accumulated CPU credits provide burst capability for the instances.\n\nInstance Types: The T3a family includes various instance types, such as T3a.nano, T3a.micro, T3a.small, T3a.medium, T3a.large, and more. These instance types differ in terms of CPU cores, memory, and network capacity.\n\nNetwork Performance: T3a instances provide moderate network performance with the Amazon Elastic Network Adapter (ENA) technology, enabling high network throughput for most common workloads.\n\nThe T3a instances are suitable for a wide range of workloads, including web servers, development environments, microservices, small databases, and other applications with variable or bursty CPU usage patterns.",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 536870912.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 625000000.0,
+        "tags": [
+            {
+                "id": 240,
+                "name": "AVX"
+            },
+            {
+                "id": 247,
+                "name": "General purpose"
+            },
+            {
+                "id": 248,
+                "name": "AMD EPYC 7571"
+            },
+            {
+                "id": 197,
+                "name": "2.5 GHz"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 239,
+                "name": "AMD Turbo"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 241,
+                "name": "AVX2"
+            }
+        ],
+        "price": {
+            "product": 181427,
+            "value": 0.0031,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 186597,
+        "company": 6,
+        "name": "t3a.nano Windows",
+        "location": "asia.india.mumbai.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "The T3a family in AWS is a burstable performance instance family that offers a balance of compute power and cost efficiency. These instances are powered by AWS Nitro System technology and are well-suited for workloads that have variable CPU usage patterns. Here are some key details about the T3a instance family:\n\nBurstable Performance: The T3a instances provide baseline CPU performance with the ability to burst CPU usage when needed. They are designed for workloads that have periodic spikes in CPU usage.\n\nProcessor and Architecture: The T3a instances use custom-designed AWS Nitro System processors based on the 64-bit Arm architecture. These processors offer a good balance of performance and efficiency.\n\nCPU Credits: T3a instances earn CPU credits when operating below baseline performance. These credits can be used to burst CPU performance when needed. The accumulated CPU credits provide burst capability for the instances.\n\nInstance Types: The T3a family includes various instance types, such as T3a.nano, T3a.micro, T3a.small, T3a.medium, T3a.large, and more. These instance types differ in terms of CPU cores, memory, and network capacity.\n\nNetwork Performance: T3a instances provide moderate network performance with the Amazon Elastic Network Adapter (ENA) technology, enabling high network throughput for most common workloads.\n\nThe T3a instances are suitable for a wide range of workloads, including web servers, development environments, microservices, small databases, and other applications with variable or bursty CPU usage patterns.",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 536870912.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 625000000.0,
+        "tags": [
+            {
+                "id": 240,
+                "name": "AVX"
+            },
+            {
+                "id": 247,
+                "name": "General purpose"
+            },
+            {
+                "id": 248,
+                "name": "AMD EPYC 7571"
+            },
+            {
+                "id": 261,
+                "name": "Bring your own license"
+            },
+            {
+                "id": 197,
+                "name": "2.5 GHz"
+            },
+            {
+                "id": 239,
+                "name": "AMD Turbo"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 241,
+                "name": "AVX2"
+            }
+        ],
+        "price": {
+            "product": 186597,
+            "value": 0.0031,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 188242,
+        "company": 6,
+        "name": "t3a.nano Linux",
+        "location": "asia.india.mumbai.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "The T3a family in AWS is a burstable performance instance family that offers a balance of compute power and cost efficiency. These instances are powered by AWS Nitro System technology and are well-suited for workloads that have variable CPU usage patterns. Here are some key details about the T3a instance family:\n\nBurstable Performance: The T3a instances provide baseline CPU performance with the ability to burst CPU usage when needed. They are designed for workloads that have periodic spikes in CPU usage.\n\nProcessor and Architecture: The T3a instances use custom-designed AWS Nitro System processors based on the 64-bit Arm architecture. These processors offer a good balance of performance and efficiency.\n\nCPU Credits: T3a instances earn CPU credits when operating below baseline performance. These credits can be used to burst CPU performance when needed. The accumulated CPU credits provide burst capability for the instances.\n\nInstance Types: The T3a family includes various instance types, such as T3a.nano, T3a.micro, T3a.small, T3a.medium, T3a.large, and more. These instance types differ in terms of CPU cores, memory, and network capacity.\n\nNetwork Performance: T3a instances provide moderate network performance with the Amazon Elastic Network Adapter (ENA) technology, enabling high network throughput for most common workloads.\n\nThe T3a instances are suitable for a wide range of workloads, including web servers, development environments, microservices, small databases, and other applications with variable or bursty CPU usage patterns.",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 536870912.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 625000000.0,
+        "tags": [
+            {
+                "id": 240,
+                "name": "AVX"
+            },
+            {
+                "id": 247,
+                "name": "General purpose"
+            },
+            {
+                "id": 248,
+                "name": "AMD EPYC 7571"
+            },
+            {
+                "id": 197,
+                "name": "2.5 GHz"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 239,
+                "name": "AMD Turbo"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 241,
+                "name": "AVX2"
+            }
+        ],
+        "price": {
+            "product": 188242,
+            "value": 0.0031,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 6648,
+        "company": 9,
+        "name": "a1_ram2_disk0",
+        "location": "europe.switzerland",
+        "update_date": "2024-06-17T00:02:19.354955",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 2147483648.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [],
+        "price": {
+            "product": 6648,
+            "value": 0.00363,
+            "unit": "hour",
+            "currency": "EUR",
+            "date": "2024-06-17T00:02:19.354955"
+        }
+    },
+    {
+        "id": 86350,
+        "company": 6,
+        "name": "t4g.nano SUSE",
+        "location": "america.usa.ohio.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "The T4g family in AWS is a burstable performance instance family that is powered by AWS Graviton2 processors, which are based on the Arm architecture. The T4g instances offer a cost-effective option for workloads with variable or bursty compute requirements. Here are some key details about the T4g instance family:\n\nBurstable Performance: T4g instances are designed to provide a baseline level of CPU performance with the ability to burst CPU usage for short periods when needed. This burstable performance is beneficial for applications with intermittent or variable workloads.\n\nAWS Graviton2 Processor: T4g instances are powered by AWS Graviton2 processors, which are custom-designed by AWS based on the Arm architecture. These processors deliver excellent performance, energy efficiency, and cost savings.\n\nInstance Types: The T4g family offers various instance types, including T4g.nano, T4g.micro, T4g.small, T4g.medium, T4g.large, T4g.xlarge, T4g.2xlarge, and more. These instance types provide different combinations of CPU cores, memory, and network capacity.\n\nCost-Effective: T4g instances offer a cost-effective option for workloads that do not consistently require high CPU performance. They provide the benefits of the AWS Graviton2 processors at a lower price point.\n\nSupported by AWS Nitro System: T4g instances leverage the AWS Nitro System, which provides a lightweight hypervisor and offloads various virtualization functions to dedicated hardware, resulting in improved performance and security.\n\nThe T4g instances are suitable for a wide range of workloads, including microservices, small-scale web servers, development environments, and low-traffic applications. They offer a balance of cost-efficiency and performance for workloads that can benefit from burstable CPU performance.",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 536870912.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 625000000.0,
+        "tags": [
+            {
+                "id": 247,
+                "name": "General purpose"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 197,
+                "name": "2.5 GHz"
+            },
+            {
+                "id": 246,
+                "name": "AWS Graviton2 Processor"
+            }
+        ],
+        "price": {
+            "product": 86350,
+            "value": 0.0042,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 180177,
+        "company": 6,
+        "name": "t4g.nano Linux",
+        "location": "america.usa.oregon.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "The T4g family in AWS is a burstable performance instance family that is powered by AWS Graviton2 processors, which are based on the Arm architecture. The T4g instances offer a cost-effective option for workloads with variable or bursty compute requirements. Here are some key details about the T4g instance family:\n\nBurstable Performance: T4g instances are designed to provide a baseline level of CPU performance with the ability to burst CPU usage for short periods when needed. This burstable performance is beneficial for applications with intermittent or variable workloads.\n\nAWS Graviton2 Processor: T4g instances are powered by AWS Graviton2 processors, which are custom-designed by AWS based on the Arm architecture. These processors deliver excellent performance, energy efficiency, and cost savings.\n\nInstance Types: The T4g family offers various instance types, including T4g.nano, T4g.micro, T4g.small, T4g.medium, T4g.large, T4g.xlarge, T4g.2xlarge, and more. These instance types provide different combinations of CPU cores, memory, and network capacity.\n\nCost-Effective: T4g instances offer a cost-effective option for workloads that do not consistently require high CPU performance. They provide the benefits of the AWS Graviton2 processors at a lower price point.\n\nSupported by AWS Nitro System: T4g instances leverage the AWS Nitro System, which provides a lightweight hypervisor and offloads various virtualization functions to dedicated hardware, resulting in improved performance and security.\n\nThe T4g instances are suitable for a wide range of workloads, including microservices, small-scale web servers, development environments, and low-traffic applications. They offer a balance of cost-efficiency and performance for workloads that can benefit from burstable CPU performance.",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 536870912.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 625000000.0,
+        "tags": [
+            {
+                "id": 247,
+                "name": "General purpose"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 197,
+                "name": "2.5 GHz"
+            },
+            {
+                "id": 246,
+                "name": "AWS Graviton2 Processor"
+            }
+        ],
+        "price": {
+            "product": 180177,
+            "value": 0.0042,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 181054,
+        "company": 6,
+        "name": "t4g.nano SUSE",
+        "location": "america.usa.northern virginia.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "The T4g family in AWS is a burstable performance instance family that is powered by AWS Graviton2 processors, which are based on the Arm architecture. The T4g instances offer a cost-effective option for workloads with variable or bursty compute requirements. Here are some key details about the T4g instance family:\n\nBurstable Performance: T4g instances are designed to provide a baseline level of CPU performance with the ability to burst CPU usage for short periods when needed. This burstable performance is beneficial for applications with intermittent or variable workloads.\n\nAWS Graviton2 Processor: T4g instances are powered by AWS Graviton2 processors, which are custom-designed by AWS based on the Arm architecture. These processors deliver excellent performance, energy efficiency, and cost savings.\n\nInstance Types: The T4g family offers various instance types, including T4g.nano, T4g.micro, T4g.small, T4g.medium, T4g.large, T4g.xlarge, T4g.2xlarge, and more. These instance types provide different combinations of CPU cores, memory, and network capacity.\n\nCost-Effective: T4g instances offer a cost-effective option for workloads that do not consistently require high CPU performance. They provide the benefits of the AWS Graviton2 processors at a lower price point.\n\nSupported by AWS Nitro System: T4g instances leverage the AWS Nitro System, which provides a lightweight hypervisor and offloads various virtualization functions to dedicated hardware, resulting in improved performance and security.\n\nThe T4g instances are suitable for a wide range of workloads, including microservices, small-scale web servers, development environments, and low-traffic applications. They offer a balance of cost-efficiency and performance for workloads that can benefit from burstable CPU performance.",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 536870912.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 625000000.0,
+        "tags": [
+            {
+                "id": 247,
+                "name": "General purpose"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 197,
+                "name": "2.5 GHz"
+            },
+            {
+                "id": 246,
+                "name": "AWS Graviton2 Processor"
+            }
+        ],
+        "price": {
+            "product": 181054,
+            "value": 0.0042,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 203307,
+        "company": 6,
+        "name": "t4g.nano Linux",
+        "location": "america.usa.ohio.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "The T4g family in AWS is a burstable performance instance family that is powered by AWS Graviton2 processors, which are based on the Arm architecture. The T4g instances offer a cost-effective option for workloads with variable or bursty compute requirements. Here are some key details about the T4g instance family:\n\nBurstable Performance: T4g instances are designed to provide a baseline level of CPU performance with the ability to burst CPU usage for short periods when needed. This burstable performance is beneficial for applications with intermittent or variable workloads.\n\nAWS Graviton2 Processor: T4g instances are powered by AWS Graviton2 processors, which are custom-designed by AWS based on the Arm architecture. These processors deliver excellent performance, energy efficiency, and cost savings.\n\nInstance Types: The T4g family offers various instance types, including T4g.nano, T4g.micro, T4g.small, T4g.medium, T4g.large, T4g.xlarge, T4g.2xlarge, and more. These instance types provide different combinations of CPU cores, memory, and network capacity.\n\nCost-Effective: T4g instances offer a cost-effective option for workloads that do not consistently require high CPU performance. They provide the benefits of the AWS Graviton2 processors at a lower price point.\n\nSupported by AWS Nitro System: T4g instances leverage the AWS Nitro System, which provides a lightweight hypervisor and offloads various virtualization functions to dedicated hardware, resulting in improved performance and security.\n\nThe T4g instances are suitable for a wide range of workloads, including microservices, small-scale web servers, development environments, and low-traffic applications. They offer a balance of cost-efficiency and performance for workloads that can benefit from burstable CPU performance.",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 536870912.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 625000000.0,
+        "tags": [
+            {
+                "id": 247,
+                "name": "General purpose"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 197,
+                "name": "2.5 GHz"
+            },
+            {
+                "id": 246,
+                "name": "AWS Graviton2 Processor"
+            }
+        ],
+        "price": {
+            "product": 203307,
+            "value": 0.0042,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 203748,
+        "company": 6,
+        "name": "t4g.nano Linux",
+        "location": "america.usa.northern virginia.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "The T4g family in AWS is a burstable performance instance family that is powered by AWS Graviton2 processors, which are based on the Arm architecture. The T4g instances offer a cost-effective option for workloads with variable or bursty compute requirements. Here are some key details about the T4g instance family:\n\nBurstable Performance: T4g instances are designed to provide a baseline level of CPU performance with the ability to burst CPU usage for short periods when needed. This burstable performance is beneficial for applications with intermittent or variable workloads.\n\nAWS Graviton2 Processor: T4g instances are powered by AWS Graviton2 processors, which are custom-designed by AWS based on the Arm architecture. These processors deliver excellent performance, energy efficiency, and cost savings.\n\nInstance Types: The T4g family offers various instance types, including T4g.nano, T4g.micro, T4g.small, T4g.medium, T4g.large, T4g.xlarge, T4g.2xlarge, and more. These instance types provide different combinations of CPU cores, memory, and network capacity.\n\nCost-Effective: T4g instances offer a cost-effective option for workloads that do not consistently require high CPU performance. They provide the benefits of the AWS Graviton2 processors at a lower price point.\n\nSupported by AWS Nitro System: T4g instances leverage the AWS Nitro System, which provides a lightweight hypervisor and offloads various virtualization functions to dedicated hardware, resulting in improved performance and security.\n\nThe T4g instances are suitable for a wide range of workloads, including microservices, small-scale web servers, development environments, and low-traffic applications. They offer a balance of cost-efficiency and performance for workloads that can benefit from burstable CPU performance.",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 536870912.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 625000000.0,
+        "tags": [
+            {
+                "id": 247,
+                "name": "General purpose"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 197,
+                "name": "2.5 GHz"
+            },
+            {
+                "id": 246,
+                "name": "AWS Graviton2 Processor"
+            }
+        ],
+        "price": {
+            "product": 203748,
+            "value": 0.0042,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 227414,
+        "company": 6,
+        "name": "t4g.nano SUSE",
+        "location": "america.usa.oregon.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "The T4g family in AWS is a burstable performance instance family that is powered by AWS Graviton2 processors, which are based on the Arm architecture. The T4g instances offer a cost-effective option for workloads with variable or bursty compute requirements. Here are some key details about the T4g instance family:\n\nBurstable Performance: T4g instances are designed to provide a baseline level of CPU performance with the ability to burst CPU usage for short periods when needed. This burstable performance is beneficial for applications with intermittent or variable workloads.\n\nAWS Graviton2 Processor: T4g instances are powered by AWS Graviton2 processors, which are custom-designed by AWS based on the Arm architecture. These processors deliver excellent performance, energy efficiency, and cost savings.\n\nInstance Types: The T4g family offers various instance types, including T4g.nano, T4g.micro, T4g.small, T4g.medium, T4g.large, T4g.xlarge, T4g.2xlarge, and more. These instance types provide different combinations of CPU cores, memory, and network capacity.\n\nCost-Effective: T4g instances offer a cost-effective option for workloads that do not consistently require high CPU performance. They provide the benefits of the AWS Graviton2 processors at a lower price point.\n\nSupported by AWS Nitro System: T4g instances leverage the AWS Nitro System, which provides a lightweight hypervisor and offloads various virtualization functions to dedicated hardware, resulting in improved performance and security.\n\nThe T4g instances are suitable for a wide range of workloads, including microservices, small-scale web servers, development environments, and low-traffic applications. They offer a balance of cost-efficiency and performance for workloads that can benefit from burstable CPU performance.",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 536870912.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 625000000.0,
+        "tags": [
+            {
+                "id": 247,
+                "name": "General purpose"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 197,
+                "name": "2.5 GHz"
+            },
+            {
+                "id": 246,
+                "name": "AWS Graviton2 Processor"
+            }
+        ],
+        "price": {
+            "product": 227414,
+            "value": 0.0042,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 199018,
+        "company": 6,
+        "name": "t4g.nano SUSE",
+        "location": "europe.sweden.stockholm.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "The T4g family in AWS is a burstable performance instance family that is powered by AWS Graviton2 processors, which are based on the Arm architecture. The T4g instances offer a cost-effective option for workloads with variable or bursty compute requirements. Here are some key details about the T4g instance family:\n\nBurstable Performance: T4g instances are designed to provide a baseline level of CPU performance with the ability to burst CPU usage for short periods when needed. This burstable performance is beneficial for applications with intermittent or variable workloads.\n\nAWS Graviton2 Processor: T4g instances are powered by AWS Graviton2 processors, which are custom-designed by AWS based on the Arm architecture. These processors deliver excellent performance, energy efficiency, and cost savings.\n\nInstance Types: The T4g family offers various instance types, including T4g.nano, T4g.micro, T4g.small, T4g.medium, T4g.large, T4g.xlarge, T4g.2xlarge, and more. These instance types provide different combinations of CPU cores, memory, and network capacity.\n\nCost-Effective: T4g instances offer a cost-effective option for workloads that do not consistently require high CPU performance. They provide the benefits of the AWS Graviton2 processors at a lower price point.\n\nSupported by AWS Nitro System: T4g instances leverage the AWS Nitro System, which provides a lightweight hypervisor and offloads various virtualization functions to dedicated hardware, resulting in improved performance and security.\n\nThe T4g instances are suitable for a wide range of workloads, including microservices, small-scale web servers, development environments, and low-traffic applications. They offer a balance of cost-efficiency and performance for workloads that can benefit from burstable CPU performance.",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 536870912.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 625000000.0,
+        "tags": [
+            {
+                "id": 247,
+                "name": "General purpose"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 197,
+                "name": "2.5 GHz"
+            },
+            {
+                "id": 246,
+                "name": "AWS Graviton2 Processor"
+            }
+        ],
+        "price": {
+            "product": 199018,
+            "value": 0.0043,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 206355,
+        "company": 6,
+        "name": "t4g.nano Linux",
+        "location": "europe.sweden.stockholm.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "The T4g family in AWS is a burstable performance instance family that is powered by AWS Graviton2 processors, which are based on the Arm architecture. The T4g instances offer a cost-effective option for workloads with variable or bursty compute requirements. Here are some key details about the T4g instance family:\n\nBurstable Performance: T4g instances are designed to provide a baseline level of CPU performance with the ability to burst CPU usage for short periods when needed. This burstable performance is beneficial for applications with intermittent or variable workloads.\n\nAWS Graviton2 Processor: T4g instances are powered by AWS Graviton2 processors, which are custom-designed by AWS based on the Arm architecture. These processors deliver excellent performance, energy efficiency, and cost savings.\n\nInstance Types: The T4g family offers various instance types, including T4g.nano, T4g.micro, T4g.small, T4g.medium, T4g.large, T4g.xlarge, T4g.2xlarge, and more. These instance types provide different combinations of CPU cores, memory, and network capacity.\n\nCost-Effective: T4g instances offer a cost-effective option for workloads that do not consistently require high CPU performance. They provide the benefits of the AWS Graviton2 processors at a lower price point.\n\nSupported by AWS Nitro System: T4g instances leverage the AWS Nitro System, which provides a lightweight hypervisor and offloads various virtualization functions to dedicated hardware, resulting in improved performance and security.\n\nThe T4g instances are suitable for a wide range of workloads, including microservices, small-scale web servers, development environments, and low-traffic applications. They offer a balance of cost-efficiency and performance for workloads that can benefit from burstable CPU performance.",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 536870912.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 625000000.0,
+        "tags": [
+            {
+                "id": 247,
+                "name": "General purpose"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 197,
+                "name": "2.5 GHz"
+            },
+            {
+                "id": 246,
+                "name": "AWS Graviton2 Processor"
+            }
+        ],
+        "price": {
+            "product": 206355,
+            "value": 0.0043,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 895,
+        "company": 3,
+        "name": "STARDUST1-S",
+        "location": "europe.france.paris.1",
+        "update_date": "2024-05-15T00:10:25.865838",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 1073741824.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 12500000.0,
+        "external_network_speed": 12500000.0,
+        "tags": [
+            {
+                "id": 48,
+                "name": "x86_64"
+            }
+        ],
+        "price": {
+            "product": 895,
+            "value": 0.00459,
+            "unit": "hour",
+            "currency": "EUR",
+            "date": "2024-05-15T00:10:25.865838"
+        }
+    },
+    {
+        "id": 1223,
+        "company": 3,
+        "name": "STARDUST1-S",
+        "location": "europe.netherlands.amsterdam.1",
+        "update_date": "2024-05-15T00:10:25.865838",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 1073741824.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 12500000.0,
+        "external_network_speed": 12500000.0,
+        "tags": [
+            {
+                "id": 48,
+                "name": "x86_64"
+            }
+        ],
+        "price": {
+            "product": 1223,
+            "value": 0.00459,
+            "unit": "hour",
+            "currency": "EUR",
+            "date": "2024-05-15T00:10:25.865838"
+        }
+    },
+    {
+        "id": 1821,
+        "company": 3,
+        "name": "STARDUST1-S",
+        "location": "europe.poland.warsaw.2",
+        "update_date": "2024-05-15T00:10:25.865838",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 1073741824.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 12500000.0,
+        "external_network_speed": 12500000.0,
+        "tags": [
+            {
+                "id": 48,
+                "name": "x86_64"
+            }
+        ],
+        "price": {
+            "product": 1821,
+            "value": 0.00459,
+            "unit": "hour",
+            "currency": "EUR",
+            "date": "2024-05-15T00:10:25.865838"
+        }
+    },
+    {
+        "id": 94013,
+        "company": 6,
+        "name": "t4g.nano Linux",
+        "location": "europe.ireland.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "The T4g family in AWS is a burstable performance instance family that is powered by AWS Graviton2 processors, which are based on the Arm architecture. The T4g instances offer a cost-effective option for workloads with variable or bursty compute requirements. Here are some key details about the T4g instance family:\n\nBurstable Performance: T4g instances are designed to provide a baseline level of CPU performance with the ability to burst CPU usage for short periods when needed. This burstable performance is beneficial for applications with intermittent or variable workloads.\n\nAWS Graviton2 Processor: T4g instances are powered by AWS Graviton2 processors, which are custom-designed by AWS based on the Arm architecture. These processors deliver excellent performance, energy efficiency, and cost savings.\n\nInstance Types: The T4g family offers various instance types, including T4g.nano, T4g.micro, T4g.small, T4g.medium, T4g.large, T4g.xlarge, T4g.2xlarge, and more. These instance types provide different combinations of CPU cores, memory, and network capacity.\n\nCost-Effective: T4g instances offer a cost-effective option for workloads that do not consistently require high CPU performance. They provide the benefits of the AWS Graviton2 processors at a lower price point.\n\nSupported by AWS Nitro System: T4g instances leverage the AWS Nitro System, which provides a lightweight hypervisor and offloads various virtualization functions to dedicated hardware, resulting in improved performance and security.\n\nThe T4g instances are suitable for a wide range of workloads, including microservices, small-scale web servers, development environments, and low-traffic applications. They offer a balance of cost-efficiency and performance for workloads that can benefit from burstable CPU performance.",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 536870912.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 625000000.0,
+        "tags": [
+            {
+                "id": 247,
+                "name": "General purpose"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 197,
+                "name": "2.5 GHz"
+            },
+            {
+                "id": 246,
+                "name": "AWS Graviton2 Processor"
+            }
+        ],
+        "price": {
+            "product": 94013,
+            "value": 0.0046,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 107203,
+        "company": 6,
+        "name": "t3.nano Windows",
+        "location": "africa.south africa.le cap.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "The T3 family in AWS is a burstable performance instance family that offers a balance of compute power, memory, and network performance at a low cost. These instances are designed for workloads with variable or unpredictable CPU usage patterns. Here are some key details about the T3 instance family:\n\nBurstable Performance: T3 instances provide baseline CPU performance with the ability to burst CPU usage when needed. They accumulate CPU credits during periods of low usage, which can be used to burst above the baseline when the workload demands it.\n\nInstance Types: The T3 family includes various instance types, such as T3.nano, T3.micro, T3.small, T3.medium, T3.large, and more. These instance types differ in terms of CPU, memory, and network capacity.\n\nProcessor and Architecture: The T3 instances use custom-designed AWS Nitro System processors based on the Intel Skylake architecture. These processors are optimized for cloud workloads and provide a balance of performance and efficiency.\n\nNetwork Performance: T3 instances offer moderate network performance, suitable for general-purpose workloads. They support the Amazon Elastic Network Adapter (ENA) technology for enhanced networking capabilities.\n\nUse Cases: T3 instances are suitable for a wide range of workloads, including microservices, small databases, development and test environments, low-traffic websites, and other applications with variable or unpredictable CPU usage.\n\nIt's important to note that T3 instances are designed for burstable workloads and have CPU performance limits based on the instance size. If sustained high CPU performance is required, other instance families such as the M5, C5, or R5 families may be more appropriate.",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 536870912.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 625000000.0,
+        "tags": [
+            {
+                "id": 230,
+                "name": "Intel AVX512"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 240,
+                "name": "AVX"
+            },
+            {
+                "id": 247,
+                "name": "General purpose"
+            },
+            {
+                "id": 268,
+                "name": "Intel Skylake E5 2686 v5"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 202,
+                "name": "3.1 GHz"
+            },
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 241,
+                "name": "AVX2"
+            }
+        ],
+        "price": {
+            "product": 107203,
+            "value": 0.0046,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 111029,
+        "company": 6,
+        "name": "t3.nano Windows",
+        "location": "america.usa.ohio.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "The T3 family in AWS is a burstable performance instance family that offers a balance of compute power, memory, and network performance at a low cost. These instances are designed for workloads with variable or unpredictable CPU usage patterns. Here are some key details about the T3 instance family:\n\nBurstable Performance: T3 instances provide baseline CPU performance with the ability to burst CPU usage when needed. They accumulate CPU credits during periods of low usage, which can be used to burst above the baseline when the workload demands it.\n\nInstance Types: The T3 family includes various instance types, such as T3.nano, T3.micro, T3.small, T3.medium, T3.large, and more. These instance types differ in terms of CPU, memory, and network capacity.\n\nProcessor and Architecture: The T3 instances use custom-designed AWS Nitro System processors based on the Intel Skylake architecture. These processors are optimized for cloud workloads and provide a balance of performance and efficiency.\n\nNetwork Performance: T3 instances offer moderate network performance, suitable for general-purpose workloads. They support the Amazon Elastic Network Adapter (ENA) technology for enhanced networking capabilities.\n\nUse Cases: T3 instances are suitable for a wide range of workloads, including microservices, small databases, development and test environments, low-traffic websites, and other applications with variable or unpredictable CPU usage.\n\nIt's important to note that T3 instances are designed for burstable workloads and have CPU performance limits based on the instance size. If sustained high CPU performance is required, other instance families such as the M5, C5, or R5 families may be more appropriate.",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 536870912.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 625000000.0,
+        "tags": [
+            {
+                "id": 230,
+                "name": "Intel AVX512"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 240,
+                "name": "AVX"
+            },
+            {
+                "id": 247,
+                "name": "General purpose"
+            },
+            {
+                "id": 268,
+                "name": "Intel Skylake E5 2686 v5"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 202,
+                "name": "3.1 GHz"
+            },
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 241,
+                "name": "AVX2"
+            }
+        ],
+        "price": {
+            "product": 111029,
+            "value": 0.0046,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 114456,
+        "company": 6,
+        "name": "t4g.nano SUSE",
+        "location": "europe.portugal.lisbon.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "The T4g family in AWS is a burstable performance instance family that is powered by AWS Graviton2 processors, which are based on the Arm architecture. The T4g instances offer a cost-effective option for workloads with variable or bursty compute requirements. Here are some key details about the T4g instance family:\n\nBurstable Performance: T4g instances are designed to provide a baseline level of CPU performance with the ability to burst CPU usage for short periods when needed. This burstable performance is beneficial for applications with intermittent or variable workloads.\n\nAWS Graviton2 Processor: T4g instances are powered by AWS Graviton2 processors, which are custom-designed by AWS based on the Arm architecture. These processors deliver excellent performance, energy efficiency, and cost savings.\n\nInstance Types: The T4g family offers various instance types, including T4g.nano, T4g.micro, T4g.small, T4g.medium, T4g.large, T4g.xlarge, T4g.2xlarge, and more. These instance types provide different combinations of CPU cores, memory, and network capacity.\n\nCost-Effective: T4g instances offer a cost-effective option for workloads that do not consistently require high CPU performance. They provide the benefits of the AWS Graviton2 processors at a lower price point.\n\nSupported by AWS Nitro System: T4g instances leverage the AWS Nitro System, which provides a lightweight hypervisor and offloads various virtualization functions to dedicated hardware, resulting in improved performance and security.\n\nThe T4g instances are suitable for a wide range of workloads, including microservices, small-scale web servers, development environments, and low-traffic applications. They offer a balance of cost-efficiency and performance for workloads that can benefit from burstable CPU performance.",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 536870912.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 625000000.0,
+        "tags": [
+            {
+                "id": 247,
+                "name": "General purpose"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 197,
+                "name": "2.5 GHz"
+            },
+            {
+                "id": 246,
+                "name": "AWS Graviton2 Processor"
+            }
+        ],
+        "price": {
+            "product": 114456,
+            "value": 0.0046,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 115190,
+        "company": 6,
+        "name": "t3.nano Windows",
+        "location": "america.usa.oregon.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "The T3 family in AWS is a burstable performance instance family that offers a balance of compute power, memory, and network performance at a low cost. These instances are designed for workloads with variable or unpredictable CPU usage patterns. Here are some key details about the T3 instance family:\n\nBurstable Performance: T3 instances provide baseline CPU performance with the ability to burst CPU usage when needed. They accumulate CPU credits during periods of low usage, which can be used to burst above the baseline when the workload demands it.\n\nInstance Types: The T3 family includes various instance types, such as T3.nano, T3.micro, T3.small, T3.medium, T3.large, and more. These instance types differ in terms of CPU, memory, and network capacity.\n\nProcessor and Architecture: The T3 instances use custom-designed AWS Nitro System processors based on the Intel Skylake architecture. These processors are optimized for cloud workloads and provide a balance of performance and efficiency.\n\nNetwork Performance: T3 instances offer moderate network performance, suitable for general-purpose workloads. They support the Amazon Elastic Network Adapter (ENA) technology for enhanced networking capabilities.\n\nUse Cases: T3 instances are suitable for a wide range of workloads, including microservices, small databases, development and test environments, low-traffic websites, and other applications with variable or unpredictable CPU usage.\n\nIt's important to note that T3 instances are designed for burstable workloads and have CPU performance limits based on the instance size. If sustained high CPU performance is required, other instance families such as the M5, C5, or R5 families may be more appropriate.",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 536870912.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 625000000.0,
+        "tags": [
+            {
+                "id": 230,
+                "name": "Intel AVX512"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 240,
+                "name": "AVX"
+            },
+            {
+                "id": 247,
+                "name": "General purpose"
+            },
+            {
+                "id": 268,
+                "name": "Intel Skylake E5 2686 v5"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 202,
+                "name": "3.1 GHz"
+            },
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 241,
+                "name": "AVX2"
+            }
+        ],
+        "price": {
+            "product": 115190,
+            "value": 0.0046,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 119205,
+        "company": 6,
+        "name": "t3.nano Windows",
+        "location": "asia.indonesia.jakarta.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "The T3 family in AWS is a burstable performance instance family that offers a balance of compute power, memory, and network performance at a low cost. These instances are designed for workloads with variable or unpredictable CPU usage patterns. Here are some key details about the T3 instance family:\n\nBurstable Performance: T3 instances provide baseline CPU performance with the ability to burst CPU usage when needed. They accumulate CPU credits during periods of low usage, which can be used to burst above the baseline when the workload demands it.\n\nInstance Types: The T3 family includes various instance types, such as T3.nano, T3.micro, T3.small, T3.medium, T3.large, and more. These instance types differ in terms of CPU, memory, and network capacity.\n\nProcessor and Architecture: The T3 instances use custom-designed AWS Nitro System processors based on the Intel Skylake architecture. These processors are optimized for cloud workloads and provide a balance of performance and efficiency.\n\nNetwork Performance: T3 instances offer moderate network performance, suitable for general-purpose workloads. They support the Amazon Elastic Network Adapter (ENA) technology for enhanced networking capabilities.\n\nUse Cases: T3 instances are suitable for a wide range of workloads, including microservices, small databases, development and test environments, low-traffic websites, and other applications with variable or unpredictable CPU usage.\n\nIt's important to note that T3 instances are designed for burstable workloads and have CPU performance limits based on the instance size. If sustained high CPU performance is required, other instance families such as the M5, C5, or R5 families may be more appropriate.",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 536870912.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 625000000.0,
+        "tags": [
+            {
+                "id": 230,
+                "name": "Intel AVX512"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 240,
+                "name": "AVX"
+            },
+            {
+                "id": 247,
+                "name": "General purpose"
+            },
+            {
+                "id": 268,
+                "name": "Intel Skylake E5 2686 v5"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 202,
+                "name": "3.1 GHz"
+            },
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 241,
+                "name": "AVX2"
+            }
+        ],
+        "price": {
+            "product": 119205,
+            "value": 0.0046,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 127797,
+        "company": 6,
+        "name": "t4g.nano Linux",
+        "location": "america.canada.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "The T4g family in AWS is a burstable performance instance family that is powered by AWS Graviton2 processors, which are based on the Arm architecture. The T4g instances offer a cost-effective option for workloads with variable or bursty compute requirements. Here are some key details about the T4g instance family:\n\nBurstable Performance: T4g instances are designed to provide a baseline level of CPU performance with the ability to burst CPU usage for short periods when needed. This burstable performance is beneficial for applications with intermittent or variable workloads.\n\nAWS Graviton2 Processor: T4g instances are powered by AWS Graviton2 processors, which are custom-designed by AWS based on the Arm architecture. These processors deliver excellent performance, energy efficiency, and cost savings.\n\nInstance Types: The T4g family offers various instance types, including T4g.nano, T4g.micro, T4g.small, T4g.medium, T4g.large, T4g.xlarge, T4g.2xlarge, and more. These instance types provide different combinations of CPU cores, memory, and network capacity.\n\nCost-Effective: T4g instances offer a cost-effective option for workloads that do not consistently require high CPU performance. They provide the benefits of the AWS Graviton2 processors at a lower price point.\n\nSupported by AWS Nitro System: T4g instances leverage the AWS Nitro System, which provides a lightweight hypervisor and offloads various virtualization functions to dedicated hardware, resulting in improved performance and security.\n\nThe T4g instances are suitable for a wide range of workloads, including microservices, small-scale web servers, development environments, and low-traffic applications. They offer a balance of cost-efficiency and performance for workloads that can benefit from burstable CPU performance.",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 536870912.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 625000000.0,
+        "tags": [
+            {
+                "id": 247,
+                "name": "General purpose"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 197,
+                "name": "2.5 GHz"
+            },
+            {
+                "id": 246,
+                "name": "AWS Graviton2 Processor"
+            }
+        ],
+        "price": {
+            "product": 127797,
+            "value": 0.0046,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 171989,
+        "company": 6,
+        "name": "t3.nano Windows",
+        "location": "europe.portugal.lisbon.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "The T3 family in AWS is a burstable performance instance family that offers a balance of compute power, memory, and network performance at a low cost. These instances are designed for workloads with variable or unpredictable CPU usage patterns. Here are some key details about the T3 instance family:\n\nBurstable Performance: T3 instances provide baseline CPU performance with the ability to burst CPU usage when needed. They accumulate CPU credits during periods of low usage, which can be used to burst above the baseline when the workload demands it.\n\nInstance Types: The T3 family includes various instance types, such as T3.nano, T3.micro, T3.small, T3.medium, T3.large, and more. These instance types differ in terms of CPU, memory, and network capacity.\n\nProcessor and Architecture: The T3 instances use custom-designed AWS Nitro System processors based on the Intel Skylake architecture. These processors are optimized for cloud workloads and provide a balance of performance and efficiency.\n\nNetwork Performance: T3 instances offer moderate network performance, suitable for general-purpose workloads. They support the Amazon Elastic Network Adapter (ENA) technology for enhanced networking capabilities.\n\nUse Cases: T3 instances are suitable for a wide range of workloads, including microservices, small databases, development and test environments, low-traffic websites, and other applications with variable or unpredictable CPU usage.\n\nIt's important to note that T3 instances are designed for burstable workloads and have CPU performance limits based on the instance size. If sustained high CPU performance is required, other instance families such as the M5, C5, or R5 families may be more appropriate.",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 536870912.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 625000000.0,
+        "tags": [
+            {
+                "id": 230,
+                "name": "Intel AVX512"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 240,
+                "name": "AVX"
+            },
+            {
+                "id": 247,
+                "name": "General purpose"
+            },
+            {
+                "id": 268,
+                "name": "Intel Skylake E5 2686 v5"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 202,
+                "name": "3.1 GHz"
+            },
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 241,
+                "name": "AVX2"
+            }
+        ],
+        "price": {
+            "product": 171989,
+            "value": 0.0046,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 179179,
+        "company": 6,
+        "name": "t4g.nano SUSE",
+        "location": "america.canada.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "The T4g family in AWS is a burstable performance instance family that is powered by AWS Graviton2 processors, which are based on the Arm architecture. The T4g instances offer a cost-effective option for workloads with variable or bursty compute requirements. Here are some key details about the T4g instance family:\n\nBurstable Performance: T4g instances are designed to provide a baseline level of CPU performance with the ability to burst CPU usage for short periods when needed. This burstable performance is beneficial for applications with intermittent or variable workloads.\n\nAWS Graviton2 Processor: T4g instances are powered by AWS Graviton2 processors, which are custom-designed by AWS based on the Arm architecture. These processors deliver excellent performance, energy efficiency, and cost savings.\n\nInstance Types: The T4g family offers various instance types, including T4g.nano, T4g.micro, T4g.small, T4g.medium, T4g.large, T4g.xlarge, T4g.2xlarge, and more. These instance types provide different combinations of CPU cores, memory, and network capacity.\n\nCost-Effective: T4g instances offer a cost-effective option for workloads that do not consistently require high CPU performance. They provide the benefits of the AWS Graviton2 processors at a lower price point.\n\nSupported by AWS Nitro System: T4g instances leverage the AWS Nitro System, which provides a lightweight hypervisor and offloads various virtualization functions to dedicated hardware, resulting in improved performance and security.\n\nThe T4g instances are suitable for a wide range of workloads, including microservices, small-scale web servers, development environments, and low-traffic applications. They offer a balance of cost-efficiency and performance for workloads that can benefit from burstable CPU performance.",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 536870912.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 625000000.0,
+        "tags": [
+            {
+                "id": 247,
+                "name": "General purpose"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 197,
+                "name": "2.5 GHz"
+            },
+            {
+                "id": 246,
+                "name": "AWS Graviton2 Processor"
+            }
+        ],
+        "price": {
+            "product": 179179,
+            "value": 0.0046,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 185886,
+        "company": 6,
+        "name": "t4g.nano SUSE",
+        "location": "europe.ireland.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "The T4g family in AWS is a burstable performance instance family that is powered by AWS Graviton2 processors, which are based on the Arm architecture. The T4g instances offer a cost-effective option for workloads with variable or bursty compute requirements. Here are some key details about the T4g instance family:\n\nBurstable Performance: T4g instances are designed to provide a baseline level of CPU performance with the ability to burst CPU usage for short periods when needed. This burstable performance is beneficial for applications with intermittent or variable workloads.\n\nAWS Graviton2 Processor: T4g instances are powered by AWS Graviton2 processors, which are custom-designed by AWS based on the Arm architecture. These processors deliver excellent performance, energy efficiency, and cost savings.\n\nInstance Types: The T4g family offers various instance types, including T4g.nano, T4g.micro, T4g.small, T4g.medium, T4g.large, T4g.xlarge, T4g.2xlarge, and more. These instance types provide different combinations of CPU cores, memory, and network capacity.\n\nCost-Effective: T4g instances offer a cost-effective option for workloads that do not consistently require high CPU performance. They provide the benefits of the AWS Graviton2 processors at a lower price point.\n\nSupported by AWS Nitro System: T4g instances leverage the AWS Nitro System, which provides a lightweight hypervisor and offloads various virtualization functions to dedicated hardware, resulting in improved performance and security.\n\nThe T4g instances are suitable for a wide range of workloads, including microservices, small-scale web servers, development environments, and low-traffic applications. They offer a balance of cost-efficiency and performance for workloads that can benefit from burstable CPU performance.",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 536870912.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 625000000.0,
+        "tags": [
+            {
+                "id": 247,
+                "name": "General purpose"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 197,
+                "name": "2.5 GHz"
+            },
+            {
+                "id": 246,
+                "name": "AWS Graviton2 Processor"
+            }
+        ],
+        "price": {
+            "product": 185886,
+            "value": 0.0046,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 199756,
+        "company": 6,
+        "name": "t3.nano Windows",
+        "location": "asia.china.hong kong.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "The T3 family in AWS is a burstable performance instance family that offers a balance of compute power, memory, and network performance at a low cost. These instances are designed for workloads with variable or unpredictable CPU usage patterns. Here are some key details about the T3 instance family:\n\nBurstable Performance: T3 instances provide baseline CPU performance with the ability to burst CPU usage when needed. They accumulate CPU credits during periods of low usage, which can be used to burst above the baseline when the workload demands it.\n\nInstance Types: The T3 family includes various instance types, such as T3.nano, T3.micro, T3.small, T3.medium, T3.large, and more. These instance types differ in terms of CPU, memory, and network capacity.\n\nProcessor and Architecture: The T3 instances use custom-designed AWS Nitro System processors based on the Intel Skylake architecture. These processors are optimized for cloud workloads and provide a balance of performance and efficiency.\n\nNetwork Performance: T3 instances offer moderate network performance, suitable for general-purpose workloads. They support the Amazon Elastic Network Adapter (ENA) technology for enhanced networking capabilities.\n\nUse Cases: T3 instances are suitable for a wide range of workloads, including microservices, small databases, development and test environments, low-traffic websites, and other applications with variable or unpredictable CPU usage.\n\nIt's important to note that T3 instances are designed for burstable workloads and have CPU performance limits based on the instance size. If sustained high CPU performance is required, other instance families such as the M5, C5, or R5 families may be more appropriate.",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 536870912.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 625000000.0,
+        "tags": [
+            {
+                "id": 230,
+                "name": "Intel AVX512"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 240,
+                "name": "AVX"
+            },
+            {
+                "id": 247,
+                "name": "General purpose"
+            },
+            {
+                "id": 268,
+                "name": "Intel Skylake E5 2686 v5"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 202,
+                "name": "3.1 GHz"
+            },
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 241,
+                "name": "AVX2"
+            }
+        ],
+        "price": {
+            "product": 199756,
+            "value": 0.0046,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 219741,
+        "company": 6,
+        "name": "t4g.nano Linux",
+        "location": "europe.portugal.lisbon.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "The T4g family in AWS is a burstable performance instance family that is powered by AWS Graviton2 processors, which are based on the Arm architecture. The T4g instances offer a cost-effective option for workloads with variable or bursty compute requirements. Here are some key details about the T4g instance family:\n\nBurstable Performance: T4g instances are designed to provide a baseline level of CPU performance with the ability to burst CPU usage for short periods when needed. This burstable performance is beneficial for applications with intermittent or variable workloads.\n\nAWS Graviton2 Processor: T4g instances are powered by AWS Graviton2 processors, which are custom-designed by AWS based on the Arm architecture. These processors deliver excellent performance, energy efficiency, and cost savings.\n\nInstance Types: The T4g family offers various instance types, including T4g.nano, T4g.micro, T4g.small, T4g.medium, T4g.large, T4g.xlarge, T4g.2xlarge, and more. These instance types provide different combinations of CPU cores, memory, and network capacity.\n\nCost-Effective: T4g instances offer a cost-effective option for workloads that do not consistently require high CPU performance. They provide the benefits of the AWS Graviton2 processors at a lower price point.\n\nSupported by AWS Nitro System: T4g instances leverage the AWS Nitro System, which provides a lightweight hypervisor and offloads various virtualization functions to dedicated hardware, resulting in improved performance and security.\n\nThe T4g instances are suitable for a wide range of workloads, including microservices, small-scale web servers, development environments, and low-traffic applications. They offer a balance of cost-efficiency and performance for workloads that can benefit from burstable CPU performance.",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 536870912.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 625000000.0,
+        "tags": [
+            {
+                "id": 247,
+                "name": "General purpose"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 197,
+                "name": "2.5 GHz"
+            },
+            {
+                "id": 246,
+                "name": "AWS Graviton2 Processor"
+            }
+        ],
+        "price": {
+            "product": 219741,
+            "value": 0.0046,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 228294,
+        "company": 6,
+        "name": "Lightsail 1-0.5GB-20GB Linux",
+        "location": "america.usa.ohio.1",
+        "update_date": "2023-10-27T00:09:15.396047",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 20000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 310,
+                "name": "Linux"
+            }
+        ],
+        "price": {
+            "product": 228294,
+            "value": 0.0047,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2023-10-27T00:09:15.396047"
+        }
+    },
+    {
+        "id": 228343,
+        "company": 6,
+        "name": "Lightsail 1-0.5GB-20GB Linux",
+        "location": "asia.singapore.1",
+        "update_date": "2023-10-27T00:09:15.396047",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 20000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 310,
+                "name": "Linux"
+            }
+        ],
+        "price": {
+            "product": 228343,
+            "value": 0.0047,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2023-10-27T00:09:15.396047"
+        }
+    },
+    {
+        "id": 228353,
+        "company": 6,
+        "name": "Lightsail 1-0.5GB-20GB Linux",
+        "location": "europe.france.paris.1",
+        "update_date": "2023-10-27T00:09:15.396047",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 20000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 310,
+                "name": "Linux"
+            }
+        ],
+        "price": {
+            "product": 228353,
+            "value": 0.0047,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2023-10-27T00:09:15.396047"
+        }
+    },
+    {
+        "id": 228365,
+        "company": 6,
+        "name": "Lightsail 1-0.5GB-20GB Linux",
+        "location": "asia.japan.tokyo.1",
+        "update_date": "2023-10-27T00:09:15.396047",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 20000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 310,
+                "name": "Linux"
+            }
+        ],
+        "price": {
+            "product": 228365,
+            "value": 0.0047,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2023-10-27T00:09:15.396047"
+        }
+    },
+    {
+        "id": 228366,
+        "company": 6,
+        "name": "Lightsail 1-0.5GB-20GB Linux",
+        "location": "america.canada.1",
+        "update_date": "2023-10-27T00:09:15.396047",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 20000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 310,
+                "name": "Linux"
+            }
+        ],
+        "price": {
+            "product": 228366,
+            "value": 0.0047,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2023-10-27T00:09:15.396047"
+        }
+    },
+    {
+        "id": 228370,
+        "company": 6,
+        "name": "Lightsail 1-0.5GB-20GB Linux",
+        "location": "asia.india.mumbai.1",
+        "update_date": "2023-10-27T00:09:15.396047",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 20000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 310,
+                "name": "Linux"
+            }
+        ],
+        "price": {
+            "product": 228370,
+            "value": 0.0047,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2023-10-27T00:09:15.396047"
+        }
+    },
+    {
+        "id": 228432,
+        "company": 6,
+        "name": "Lightsail 1-0.5GB-20GB Linux",
+        "location": "europe.united kingdom.london.1",
+        "update_date": "2023-10-27T00:09:15.396047",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 20000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 310,
+                "name": "Linux"
+            }
+        ],
+        "price": {
+            "product": 228432,
+            "value": 0.0047,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2023-10-27T00:09:15.396047"
+        }
+    },
+    {
+        "id": 228452,
+        "company": 6,
+        "name": "Lightsail 1-0.5GB-20GB Linux",
+        "location": "asia.australia.sydney.1",
+        "update_date": "2023-10-27T00:09:15.396047",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 20000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 310,
+                "name": "Linux"
+            }
+        ],
+        "price": {
+            "product": 228452,
+            "value": 0.0047,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2023-10-27T00:09:15.396047"
+        }
+    },
+    {
+        "id": 228486,
+        "company": 6,
+        "name": "Lightsail 1-0.5GB-20GB Linux",
+        "location": "europe.ireland.1",
+        "update_date": "2023-10-27T00:09:15.396047",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 20000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 310,
+                "name": "Linux"
+            }
+        ],
+        "price": {
+            "product": 228486,
+            "value": 0.0047,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2023-10-27T00:09:15.396047"
+        }
+    },
+    {
+        "id": 228507,
+        "company": 6,
+        "name": "Lightsail 1-0.5GB-20GB Linux",
+        "location": "europe.sweden.stockholm.1",
+        "update_date": "2023-10-27T00:09:15.396047",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 20000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 310,
+                "name": "Linux"
+            }
+        ],
+        "price": {
+            "product": 228507,
+            "value": 0.0047,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2023-10-27T00:09:15.396047"
+        }
+    },
+    {
+        "id": 228535,
+        "company": 6,
+        "name": "Lightsail 1-0.5GB-20GB Linux",
+        "location": "asia.korea.seoul.1",
+        "update_date": "2023-10-27T00:09:15.396047",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 20000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 310,
+                "name": "Linux"
+            }
+        ],
+        "price": {
+            "product": 228535,
+            "value": 0.0047,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2023-10-27T00:09:15.396047"
+        }
+    },
+    {
+        "id": 228554,
+        "company": 6,
+        "name": "Lightsail 1-0.5GB-20GB Linux",
+        "location": "europe.germany.frankfurt.1",
+        "update_date": "2023-10-27T00:09:15.396047",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 20000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 310,
+                "name": "Linux"
+            }
+        ],
+        "price": {
+            "product": 228554,
+            "value": 0.0047,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2023-10-27T00:09:15.396047"
+        }
+    },
+    {
+        "id": 228574,
+        "company": 6,
+        "name": "Lightsail 1-0.5GB-20GB Linux",
+        "location": "america.usa.northern virginia.1",
+        "update_date": "2023-10-27T00:09:15.396047",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 20000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 310,
+                "name": "Linux"
+            }
+        ],
+        "price": {
+            "product": 228574,
+            "value": 0.0047,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2023-10-27T00:09:15.396047"
+        }
+    },
+    {
+        "id": 228594,
+        "company": 6,
+        "name": "Lightsail 1-0.5GB-20GB Linux",
+        "location": "america.usa.oregon.1",
+        "update_date": "2023-10-27T00:09:15.396047",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 20000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 310,
+                "name": "Linux"
+            }
+        ],
+        "price": {
+            "product": 228594,
+            "value": 0.0047,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2023-10-27T00:09:15.396047"
+        }
+    },
+    {
+        "id": 79894,
+        "company": 6,
+        "name": "t4g.nano Linux",
+        "location": "europe.france.paris.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "The T4g family in AWS is a burstable performance instance family that is powered by AWS Graviton2 processors, which are based on the Arm architecture. The T4g instances offer a cost-effective option for workloads with variable or bursty compute requirements. Here are some key details about the T4g instance family:\n\nBurstable Performance: T4g instances are designed to provide a baseline level of CPU performance with the ability to burst CPU usage for short periods when needed. This burstable performance is beneficial for applications with intermittent or variable workloads.\n\nAWS Graviton2 Processor: T4g instances are powered by AWS Graviton2 processors, which are custom-designed by AWS based on the Arm architecture. These processors deliver excellent performance, energy efficiency, and cost savings.\n\nInstance Types: The T4g family offers various instance types, including T4g.nano, T4g.micro, T4g.small, T4g.medium, T4g.large, T4g.xlarge, T4g.2xlarge, and more. These instance types provide different combinations of CPU cores, memory, and network capacity.\n\nCost-Effective: T4g instances offer a cost-effective option for workloads that do not consistently require high CPU performance. They provide the benefits of the AWS Graviton2 processors at a lower price point.\n\nSupported by AWS Nitro System: T4g instances leverage the AWS Nitro System, which provides a lightweight hypervisor and offloads various virtualization functions to dedicated hardware, resulting in improved performance and security.\n\nThe T4g instances are suitable for a wide range of workloads, including microservices, small-scale web servers, development environments, and low-traffic applications. They offer a balance of cost-efficiency and performance for workloads that can benefit from burstable CPU performance.",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 536870912.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 625000000.0,
+        "tags": [
+            {
+                "id": 247,
+                "name": "General purpose"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 197,
+                "name": "2.5 GHz"
+            },
+            {
+                "id": 246,
+                "name": "AWS Graviton2 Processor"
+            }
+        ],
+        "price": {
+            "product": 79894,
+            "value": 0.0047,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 93741,
+        "company": 6,
+        "name": "t4g.nano SUSE",
+        "location": "europe.france.paris.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "The T4g family in AWS is a burstable performance instance family that is powered by AWS Graviton2 processors, which are based on the Arm architecture. The T4g instances offer a cost-effective option for workloads with variable or bursty compute requirements. Here are some key details about the T4g instance family:\n\nBurstable Performance: T4g instances are designed to provide a baseline level of CPU performance with the ability to burst CPU usage for short periods when needed. This burstable performance is beneficial for applications with intermittent or variable workloads.\n\nAWS Graviton2 Processor: T4g instances are powered by AWS Graviton2 processors, which are custom-designed by AWS based on the Arm architecture. These processors deliver excellent performance, energy efficiency, and cost savings.\n\nInstance Types: The T4g family offers various instance types, including T4g.nano, T4g.micro, T4g.small, T4g.medium, T4g.large, T4g.xlarge, T4g.2xlarge, and more. These instance types provide different combinations of CPU cores, memory, and network capacity.\n\nCost-Effective: T4g instances offer a cost-effective option for workloads that do not consistently require high CPU performance. They provide the benefits of the AWS Graviton2 processors at a lower price point.\n\nSupported by AWS Nitro System: T4g instances leverage the AWS Nitro System, which provides a lightweight hypervisor and offloads various virtualization functions to dedicated hardware, resulting in improved performance and security.\n\nThe T4g instances are suitable for a wide range of workloads, including microservices, small-scale web servers, development environments, and low-traffic applications. They offer a balance of cost-efficiency and performance for workloads that can benefit from burstable CPU performance.",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 536870912.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 625000000.0,
+        "tags": [
+            {
+                "id": 247,
+                "name": "General purpose"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 197,
+                "name": "2.5 GHz"
+            },
+            {
+                "id": 246,
+                "name": "AWS Graviton2 Processor"
+            }
+        ],
+        "price": {
+            "product": 93741,
+            "value": 0.0047,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 106785,
+        "company": 6,
+        "name": "t3a.nano Linux",
+        "location": "america.usa.northern virginia.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "The T3a family in AWS is a burstable performance instance family that offers a balance of compute power and cost efficiency. These instances are powered by AWS Nitro System technology and are well-suited for workloads that have variable CPU usage patterns. Here are some key details about the T3a instance family:\n\nBurstable Performance: The T3a instances provide baseline CPU performance with the ability to burst CPU usage when needed. They are designed for workloads that have periodic spikes in CPU usage.\n\nProcessor and Architecture: The T3a instances use custom-designed AWS Nitro System processors based on the 64-bit Arm architecture. These processors offer a good balance of performance and efficiency.\n\nCPU Credits: T3a instances earn CPU credits when operating below baseline performance. These credits can be used to burst CPU performance when needed. The accumulated CPU credits provide burst capability for the instances.\n\nInstance Types: The T3a family includes various instance types, such as T3a.nano, T3a.micro, T3a.small, T3a.medium, T3a.large, and more. These instance types differ in terms of CPU cores, memory, and network capacity.\n\nNetwork Performance: T3a instances provide moderate network performance with the Amazon Elastic Network Adapter (ENA) technology, enabling high network throughput for most common workloads.\n\nThe T3a instances are suitable for a wide range of workloads, including web servers, development environments, microservices, small databases, and other applications with variable or bursty CPU usage patterns.",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 536870912.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 625000000.0,
+        "tags": [
+            {
+                "id": 240,
+                "name": "AVX"
+            },
+            {
+                "id": 247,
+                "name": "General purpose"
+            },
+            {
+                "id": 248,
+                "name": "AMD EPYC 7571"
+            },
+            {
+                "id": 197,
+                "name": "2.5 GHz"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 239,
+                "name": "AMD Turbo"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 241,
+                "name": "AVX2"
+            }
+        ],
+        "price": {
+            "product": 106785,
+            "value": 0.0047,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 107484,
+        "company": 6,
+        "name": "t3a.nano SUSE",
+        "location": "america.usa.oregon.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "The T3a family in AWS is a burstable performance instance family that offers a balance of compute power and cost efficiency. These instances are powered by AWS Nitro System technology and are well-suited for workloads that have variable CPU usage patterns. Here are some key details about the T3a instance family:\n\nBurstable Performance: The T3a instances provide baseline CPU performance with the ability to burst CPU usage when needed. They are designed for workloads that have periodic spikes in CPU usage.\n\nProcessor and Architecture: The T3a instances use custom-designed AWS Nitro System processors based on the 64-bit Arm architecture. These processors offer a good balance of performance and efficiency.\n\nCPU Credits: T3a instances earn CPU credits when operating below baseline performance. These credits can be used to burst CPU performance when needed. The accumulated CPU credits provide burst capability for the instances.\n\nInstance Types: The T3a family includes various instance types, such as T3a.nano, T3a.micro, T3a.small, T3a.medium, T3a.large, and more. These instance types differ in terms of CPU cores, memory, and network capacity.\n\nNetwork Performance: T3a instances provide moderate network performance with the Amazon Elastic Network Adapter (ENA) technology, enabling high network throughput for most common workloads.\n\nThe T3a instances are suitable for a wide range of workloads, including web servers, development environments, microservices, small databases, and other applications with variable or bursty CPU usage patterns.",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 536870912.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 625000000.0,
+        "tags": [
+            {
+                "id": 240,
+                "name": "AVX"
+            },
+            {
+                "id": 247,
+                "name": "General purpose"
+            },
+            {
+                "id": 248,
+                "name": "AMD EPYC 7571"
+            },
+            {
+                "id": 197,
+                "name": "2.5 GHz"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 239,
+                "name": "AMD Turbo"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 241,
+                "name": "AVX2"
+            }
+        ],
+        "price": {
+            "product": 107484,
+            "value": 0.0047,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 124181,
+        "company": 6,
+        "name": "t4g.nano SUSE",
+        "location": "europe.united kingdom.london.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "The T4g family in AWS is a burstable performance instance family that is powered by AWS Graviton2 processors, which are based on the Arm architecture. The T4g instances offer a cost-effective option for workloads with variable or bursty compute requirements. Here are some key details about the T4g instance family:\n\nBurstable Performance: T4g instances are designed to provide a baseline level of CPU performance with the ability to burst CPU usage for short periods when needed. This burstable performance is beneficial for applications with intermittent or variable workloads.\n\nAWS Graviton2 Processor: T4g instances are powered by AWS Graviton2 processors, which are custom-designed by AWS based on the Arm architecture. These processors deliver excellent performance, energy efficiency, and cost savings.\n\nInstance Types: The T4g family offers various instance types, including T4g.nano, T4g.micro, T4g.small, T4g.medium, T4g.large, T4g.xlarge, T4g.2xlarge, and more. These instance types provide different combinations of CPU cores, memory, and network capacity.\n\nCost-Effective: T4g instances offer a cost-effective option for workloads that do not consistently require high CPU performance. They provide the benefits of the AWS Graviton2 processors at a lower price point.\n\nSupported by AWS Nitro System: T4g instances leverage the AWS Nitro System, which provides a lightweight hypervisor and offloads various virtualization functions to dedicated hardware, resulting in improved performance and security.\n\nThe T4g instances are suitable for a wide range of workloads, including microservices, small-scale web servers, development environments, and low-traffic applications. They offer a balance of cost-efficiency and performance for workloads that can benefit from burstable CPU performance.",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 536870912.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 625000000.0,
+        "tags": [
+            {
+                "id": 247,
+                "name": "General purpose"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 197,
+                "name": "2.5 GHz"
+            },
+            {
+                "id": 246,
+                "name": "AWS Graviton2 Processor"
+            }
+        ],
+        "price": {
+            "product": 124181,
+            "value": 0.0047,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 121290,
+        "company": 6,
+        "name": "u-12tb1.112xlarge Red Hat Enterprise Linux with HA",
+        "location": "asia.china.beijing.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 13194139533312.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 121290,
+            "value": 1075.81467,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 156469,
+        "company": 6,
+        "name": "u-12tb1.112xlarge Ubuntu Pro",
+        "location": "asia.china.beijing.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 13194139533312.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 156469,
+            "value": 1080.05234,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 206012,
+        "company": 6,
+        "name": "u-9tb1.112xlarge Windows SQL Std",
+        "location": "asia.china.ningxia.zhongwei.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 9895604649984.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 206012,
+            "value": 1093.42943,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 175195,
+        "company": 6,
+        "name": "u-12tb1.112xlarge RHEL SQL Web",
+        "location": "asia.china.beijing.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 13194139533312.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 175195,
+            "value": 1127.7142,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 151262,
+        "company": 6,
+        "name": "u-12tb1.112xlarge RHEL SQL Std",
+        "location": "asia.china.ningxia.zhongwei.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 13194139533312.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 151262,
+            "value": 1147.93728,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 140957,
+        "company": 6,
+        "name": "u-12tb1.112xlarge Red Hat Enterprise Linux with HA SQL Std",
+        "location": "asia.china.ningxia.zhongwei.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 13194139533312.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 140957,
+            "value": 1148.17689,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 297718,
+        "company": 6,
+        "name": "u-12tb1.metal Linux SQL Ent",
+        "location": "asia.china.beijing.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": true,
+        "cpu": 448.0,
+        "ram": 13194139533312.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 297718,
+            "value": 1150.128,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 298153,
+        "company": 6,
+        "name": "u-9tb1.112xlarge Linux SQL Ent",
+        "location": "asia.china.ningxia.zhongwei.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 9895604649984.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 298153,
+            "value": 1150.128,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 298120,
+        "company": 6,
+        "name": "u-6tb1.112xlarge Linux SQL Ent",
+        "location": "asia.china.ningxia.zhongwei.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 6597069766656.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 240,
+                "name": "AVX"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 298120,
+            "value": 1150.128,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 297697,
+        "company": 6,
+        "name": "u-12tb1.112xlarge Linux SQL Ent",
+        "location": "asia.china.ningxia.zhongwei.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 13194139533312.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 297697,
+            "value": 1150.128,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 298193,
+        "company": 6,
+        "name": "u-6tb1.metal Linux SQL Ent",
+        "location": "asia.china.beijing.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": true,
+        "cpu": 448.0,
+        "ram": 6597069766656.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 298193,
+            "value": 1150.128,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 297433,
+        "company": 6,
+        "name": "u-6tb1.112xlarge Linux SQL Ent",
+        "location": "asia.china.beijing.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 6597069766656.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 240,
+                "name": "AVX"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 297433,
+            "value": 1150.128,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 298229,
+        "company": 6,
+        "name": "u-12tb1.112xlarge Linux SQL Ent",
+        "location": "asia.china.beijing.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 13194139533312.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 298229,
+            "value": 1150.128,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 298173,
+        "company": 6,
+        "name": "u-9tb1.112xlarge Linux SQL Ent",
+        "location": "asia.china.beijing.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 9895604649984.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 298173,
+            "value": 1150.128,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 297595,
+        "company": 6,
+        "name": "u-9tb1.metal Linux SQL Ent",
+        "location": "asia.china.beijing.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": true,
+        "cpu": 448.0,
+        "ram": 9895604649984.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 297595,
+            "value": 1150.128,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 297282,
+        "company": 6,
+        "name": "u-12tb1.metal Linux SQL Ent",
+        "location": "asia.china.ningxia.zhongwei.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": true,
+        "cpu": 448.0,
+        "ram": 13194139533312.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 297282,
+            "value": 1150.128,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 297975,
+        "company": 6,
+        "name": "u-9tb1.metal Linux SQL Ent",
+        "location": "asia.china.ningxia.zhongwei.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": true,
+        "cpu": 448.0,
+        "ram": 9895604649984.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 297975,
+            "value": 1150.128,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 298139,
+        "company": 6,
+        "name": "u-6tb1.metal Linux SQL Ent",
+        "location": "asia.china.ningxia.zhongwei.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": true,
+        "cpu": 448.0,
+        "ram": 6597069766656.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 298139,
+            "value": 1150.128,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 195478,
+        "company": 6,
+        "name": "u-9tb1.112xlarge RHEL SQL Std",
+        "location": "asia.china.beijing.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 9895604649984.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 195478,
+            "value": 1174.91052,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 125118,
+        "company": 6,
+        "name": "u-9tb1.112xlarge Red Hat Enterprise Linux with HA SQL Std",
+        "location": "asia.china.beijing.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 9895604649984.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 125118,
+            "value": 1175.15013,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 126650,
+        "company": 6,
+        "name": "u-12tb1.112xlarge Windows SQL Web",
+        "location": "asia.china.beijing.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 13194139533312.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 126650,
+            "value": 1267.59988,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 111878,
+        "company": 6,
+        "name": "u-12tb1.112xlarge Windows SQL Std",
+        "location": "asia.china.ningxia.zhongwei.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 13194139533312.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 111878,
+            "value": 1288.12967,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 298070,
+        "company": 6,
+        "name": "u-12tb1.metal Windows SQL Ent",
+        "location": "asia.china.beijing.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": true,
+        "cpu": 448.0,
+        "ram": 13194139533312.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 298070,
+            "value": 1291.21,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 298126,
+        "company": 6,
+        "name": "u-12tb1.metal Windows SQL Ent",
+        "location": "asia.china.ningxia.zhongwei.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": true,
+        "cpu": 448.0,
+        "ram": 13194139533312.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 298126,
+            "value": 1291.21,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 297505,
+        "company": 6,
+        "name": "u-6tb1.metal Windows SQL Ent",
+        "location": "asia.china.ningxia.zhongwei.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": true,
+        "cpu": 448.0,
+        "ram": 6597069766656.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 297505,
+            "value": 1291.21,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 298078,
+        "company": 6,
+        "name": "u-6tb1.metal Windows SQL Ent",
+        "location": "asia.china.beijing.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": true,
+        "cpu": 448.0,
+        "ram": 6597069766656.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 298078,
+            "value": 1291.21,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 298176,
+        "company": 6,
+        "name": "u-9tb1.metal Windows SQL Ent",
+        "location": "asia.china.ningxia.zhongwei.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": true,
+        "cpu": 448.0,
+        "ram": 9895604649984.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 298176,
+            "value": 1291.21,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 298196,
+        "company": 6,
+        "name": "u-9tb1.metal Windows SQL Ent",
+        "location": "asia.china.beijing.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": true,
+        "cpu": 448.0,
+        "ram": 9895604649984.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 298196,
+            "value": 1291.21,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 176276,
+        "company": 6,
+        "name": "u-9tb1.112xlarge Windows SQL Ent",
+        "location": "asia.china.beijing.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 9895604649984.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 176276,
+            "value": 1291.21037,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 171254,
+        "company": 6,
+        "name": "u-6tb1.112xlarge Windows SQL Ent",
+        "location": "asia.china.beijing.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 6597069766656.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 240,
+                "name": "AVX"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 171254,
+            "value": 1291.21037,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 175123,
+        "company": 6,
+        "name": "u-9tb1.112xlarge Windows SQL Std",
+        "location": "asia.china.beijing.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 9895604649984.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 175123,
+            "value": 1315.10291,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 102816,
+        "company": 6,
+        "name": "u-12tb1.112xlarge RHEL SQL Std",
+        "location": "asia.china.beijing.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 13194139533312.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 102816,
+            "value": 1443.61602,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 139196,
+        "company": 6,
+        "name": "u-12tb1.112xlarge Red Hat Enterprise Linux with HA SQL Std",
+        "location": "asia.china.beijing.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 13194139533312.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 139196,
+            "value": 1443.85563,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 107751,
+        "company": 6,
+        "name": "u-6tb1.112xlarge RHEL SQL Ent",
+        "location": "asia.china.ningxia.zhongwei.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 6597069766656.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 240,
+                "name": "AVX"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 107751,
+            "value": 1540.55538,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 207465,
+        "company": 6,
+        "name": "u-6tb1.112xlarge Red Hat Enterprise Linux with HA SQL Ent",
+        "location": "asia.china.ningxia.zhongwei.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 6597069766656.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 240,
+                "name": "AVX"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 207465,
+            "value": 1540.79499,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 192370,
+        "company": 6,
+        "name": "u-6tb1.112xlarge Windows SQL Ent",
+        "location": "asia.china.ningxia.zhongwei.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 6597069766656.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 240,
+                "name": "AVX"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 192370,
+            "value": 1680.74777,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 137471,
+        "company": 6,
+        "name": "u-6tb1.112xlarge RHEL SQL Ent",
+        "location": "asia.china.beijing.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 6597069766656.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 240,
+                "name": "AVX"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 137471,
+            "value": 1688.36052,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 217785,
+        "company": 6,
+        "name": "u-6tb1.112xlarge Red Hat Enterprise Linux with HA SQL Ent",
+        "location": "asia.china.beijing.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 6597069766656.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 240,
+                "name": "AVX"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 217785,
+            "value": 1688.60013,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 92964,
+        "company": 6,
+        "name": "u-9tb1.112xlarge RHEL SQL Ent",
+        "location": "asia.china.ningxia.zhongwei.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 9895604649984.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 92964,
+            "value": 1735.32408,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 99027,
+        "company": 6,
+        "name": "u-9tb1.112xlarge Red Hat Enterprise Linux with HA SQL Ent",
+        "location": "asia.china.ningxia.zhongwei.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 9895604649984.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 99027,
+            "value": 1735.56369,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 208523,
+        "company": 6,
+        "name": "u-9tb1.112xlarge Windows SQL Ent",
+        "location": "asia.china.ningxia.zhongwei.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 9895604649984.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 208523,
+            "value": 1875.51647,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 102592,
+        "company": 6,
+        "name": "u-12tb1.112xlarge RHEL SQL Ent",
+        "location": "asia.china.ningxia.zhongwei.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 13194139533312.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 102592,
+            "value": 1930.02432,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 199443,
+        "company": 6,
+        "name": "u-12tb1.112xlarge Red Hat Enterprise Linux with HA SQL Ent",
+        "location": "asia.china.ningxia.zhongwei.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 13194139533312.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 199443,
+            "value": 1930.26393,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 106000,
+        "company": 6,
+        "name": "u-9tb1.112xlarge RHEL SQL Ent",
+        "location": "asia.china.beijing.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 9895604649984.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 106000,
+            "value": 1956.99756,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 104038,
+        "company": 6,
+        "name": "u-9tb1.112xlarge Red Hat Enterprise Linux with HA SQL Ent",
+        "location": "asia.china.beijing.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 9895604649984.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 104038,
+            "value": 1957.23717,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 177596,
+        "company": 6,
+        "name": "u-12tb1.112xlarge Windows SQL Ent",
+        "location": "asia.china.ningxia.zhongwei.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 13194139533312.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 177596,
+            "value": 2070.21671,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 118204,
+        "company": 6,
+        "name": "u-12tb1.112xlarge RHEL SQL Ent",
+        "location": "asia.china.beijing.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 13194139533312.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 118204,
+            "value": 2225.70306,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 194653,
+        "company": 6,
+        "name": "u-12tb1.112xlarge Red Hat Enterprise Linux with HA SQL Ent",
+        "location": "asia.china.beijing.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 13194139533312.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 194653,
+            "value": 2225.94267,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    },
+    {
+        "id": 86231,
+        "company": 6,
+        "name": "u-12tb1.112xlarge Windows SQL Ent",
+        "location": "asia.china.beijing.1",
+        "update_date": "2024-06-14T22:21:44.764992",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": true,
+        "baremetal": false,
+        "cpu": 448.0,
+        "ram": 13194139533312.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 12500000000.0,
+        "tags": [
+            {
+                "id": 231,
+                "name": "Intel Turbo"
+            },
+            {
+                "id": 227,
+                "name": "No License required"
+            },
+            {
+                "id": 228,
+                "name": "Intel AVX"
+            },
+            {
+                "id": 232,
+                "name": "64-bit"
+            },
+            {
+                "id": 245,
+                "name": "Memory optimized"
+            },
+            {
+                "id": 249,
+                "name": "Intel Xeon Scalable (Skylake)"
+            },
+            {
+                "id": 229,
+                "name": "Intel AVX2"
+            }
+        ],
+        "price": {
+            "product": 86231,
+            "value": 2365.89545,
+            "unit": "hour",
+            "currency": "CNY",
+            "date": "2024-06-14T22:21:44.764992"
+        }
+    }
+]
