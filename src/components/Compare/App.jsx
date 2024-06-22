@@ -1,11 +1,9 @@
 import "./index.css";
 import Table from "./Table/Table";
 import Sidebar from "./Sidebar/Sidebar";
-// import products from "./db/data";
 import Card from "./components/Card";
-// import offers from "./db/aws";
 import Search from "./Search/Search";
-// import companies from "./db/companies";
+
 import { useState, useEffect } from "react";
 
 function App() {
@@ -18,7 +16,7 @@ function App() {
   const [rangeDisk, setRangeDisk] = useState([6000000]);
   const [rangeGpu, setRangeGpu] = useState([16]);
   const [rangeBandWidth, setRangeBandWidth] = useState([125000000]);
-  const [rangeNetworkSpeed, setRangeNetworkSpeed] = useState([6250000000]);
+  const [rangeNetworkSpeed, setRangeNetworkSpeed] = useState([625000000000]);
   const [selectedCompany, setSelectedCompany] = useState([]);
   const [selectedLocation, setSelectedLocation] = useState([]);
 
@@ -154,6 +152,14 @@ function App() {
       console.log("disk", filteredOffers);
     }
 
+    if (rangeNetworkSpeed) {
+      filteredOffers = filteredOffers.filter(
+        ({ external_network_speed }) =>
+          external_network_speed <= rangeNetworkSpeed
+      );
+      console.log("rangeNetworkSpeed", filteredOffers);
+    }
+
     if (rangeGpu) {
       filteredOffers = filteredOffers.filter(({ gpu }) => gpu <= rangeGpu);
       console.log("gpu", filteredOffers);
@@ -164,14 +170,6 @@ function App() {
         ({ internal_network_speed }) => internal_network_speed <= rangeBandWidth
       );
       console.log("rangeBandWidth", filteredOffers);
-    }
-
-    if (rangeNetworkSpeed) {
-      filteredOffers = filteredOffers.filter(
-        ({ external_network_speed }) =>
-          external_network_speed <= rangeNetworkSpeed
-      );
-      console.log("rangeNetworkSpeed", filteredOffers);
     }
 
     if (selectedCompany.length > 0) {

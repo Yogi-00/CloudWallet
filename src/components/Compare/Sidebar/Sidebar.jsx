@@ -1,10 +1,4 @@
-import { useState } from "react";
-import Range from "../components/Range";
-import MultiSelect from "../components/MultiSelect";
-import SingleSelect from "../components/SingleSelect";
-// import Price from "./Cpu/Price";
 import Cpu from "./Cpu/Cpu";
-import Id from "./Cpu/Id";
 import Ram from "./Cpu/Ram";
 import Disk from "./Cpu/Disk";
 import Gpu from "./Cpu/Gpu";
@@ -13,10 +7,6 @@ import NetworkSpeed from "./Cpu/NetworkSpeed";
 import Company from "./Compute/Company";
 import Location from "./Compute/Location";
 const Sidebar = ({
-  // selectedOptions,
-  // handleChange,
-  // rangeValue,
-  // handleRangeChange,
   rangeCpu,
   handleCpuChange,
   rangeRam,
@@ -33,8 +23,7 @@ const Sidebar = ({
   handleBandWidthChange,
   rangeNetworkSpeed,
   handleNetworkSpeedChange,
-  // rangePrice,
-  // handlePriceChange,
+
   handleInputChange,
   query,
 }) => {
@@ -88,14 +77,6 @@ const Sidebar = ({
             </button>
           </div>
 
-          {/* <div>
-            <Price
-              rangePrice={rangePrice}
-              handlePriceChange={handlePriceChange}
-              maxValue={300}
-            />
-          </div> */}
-
           <div>
             <Cpu
               rangeCpu={rangeCpu}
@@ -137,7 +118,7 @@ const Sidebar = ({
             <NetworkSpeed
               rangeNetworkSpeed={rangeNetworkSpeed}
               handleNetworkSpeedChange={handleNetworkSpeedChange}
-              maxValue={6250000000}
+              maxValue={625000000000}
             />
           </div>
           <div>
