@@ -15,8 +15,10 @@ import Contact from "./components/Contact/Contact.jsx";
 import User from "./components/User/User.jsx";
 // import App from "./components/Calculator/App.jsx";
 import Compare from "./components/Compare/App.jsx";
+import Storage from "./components/Compare/Storage.jsx";
 import Signup from "./components/Signup/Signup.jsx";
 import Login from "./components/Login/Login.jsx";
+import Pricing from "./components/Compare/Pricing/Pricing.jsx";
 import Github, { githubInfoLoader } from "./components/Github/Github.jsx";
 
 // const router = createBrowserRouter([
@@ -48,6 +50,9 @@ const router = createBrowserRouter(
       <Route path="contact" element={<Contact />} />
       {/* <Route path="calculator" element={<App />} /> */}
       <Route path="compare" element={<Compare />} />
+      <Route path="storage" element={<Storage />} />
+      <Route path="storage" element={<Storage />} />
+      <Route path="pricing" element={<Pricing />} />
 
       <Route path="user/:userid" element={<User />} />
       <Route loader={githubInfoLoader} path="github" element={<Github />} />

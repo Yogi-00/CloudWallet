@@ -1,0 +1,1800 @@
+{
+    "id": 77689,
+    "company": 6,
+    "name": "standard",
+    "location": "africa.south africa.le cap.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 1099511627776.0,
+    "io": 0,
+    "maximum_io": 200,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 90000000.0,
+    "tags": [
+        {
+            "id": 282,
+            "name": "Magnetic"
+        },
+        {
+            "id": 283,
+            "name": "HDD-backed"
+        }
+    ],
+    "prices": [
+        {
+            "product": 77689,
+            "value": 0.06545,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 79693,
+    "company": 6,
+    "name": "standard",
+    "location": "america.usa.northern virginia.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 1099511627776.0,
+    "io": 0,
+    "maximum_io": 200,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 90000000.0,
+    "tags": [
+        {
+            "id": 282,
+            "name": "Magnetic"
+        },
+        {
+            "id": 283,
+            "name": "HDD-backed"
+        }
+    ],
+    "prices": [
+        {
+            "product": 79693,
+            "value": 0.05,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 81667,
+    "company": 6,
+    "name": "gp2",
+    "location": "asia.australia.melbourne.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 16000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 262144000.0,
+    "tags": [
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        },
+        {
+            "id": 207,
+            "name": "General Purpose"
+        }
+    ],
+    "prices": [
+        {
+            "product": 81667,
+            "value": 0.12,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 84777,
+    "company": 6,
+    "name": "st1",
+    "location": "europe.united kingdom.london.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 500,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 524288000.0,
+    "tags": [
+        {
+            "id": 292,
+            "name": "Throughput Optimized HDD"
+        },
+        {
+            "id": 283,
+            "name": "HDD-backed"
+        }
+    ],
+    "prices": [
+        {
+            "product": 84777,
+            "value": 0.053,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 87919,
+    "company": 6,
+    "name": "gp2",
+    "location": "asia.japan.tokyo.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 16000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 262144000.0,
+    "tags": [
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        },
+        {
+            "id": 207,
+            "name": "General Purpose"
+        }
+    ],
+    "prices": [
+        {
+            "product": 87919,
+            "value": 0.12,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 90835,
+    "company": 6,
+    "name": "sc1",
+    "location": "america.canada.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 250,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 262144000.0,
+    "tags": [
+        {
+            "id": 283,
+            "name": "HDD-backed"
+        },
+        {
+            "id": 294,
+            "name": "Cold HDD"
+        }
+    ],
+    "prices": [
+        {
+            "product": 90835,
+            "value": 0.0168,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 91426,
+    "company": 6,
+    "name": "gp3",
+    "location": "america.usa.oregon.los angeles.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 16000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 1048576000.0,
+    "tags": [
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        },
+        {
+            "id": 207,
+            "name": "General Purpose"
+        }
+    ],
+    "prices": [
+        {
+            "product": 91426,
+            "value": 0.096,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 93009,
+    "company": 6,
+    "name": "gp3",
+    "location": "america.usa.west.gov",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 16000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 1048576000.0,
+    "tags": [
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        },
+        {
+            "id": 207,
+            "name": "General Purpose"
+        }
+    ],
+    "prices": [
+        {
+            "product": 93009,
+            "value": 0.096,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 93073,
+    "company": 6,
+    "name": "io2",
+    "location": "america.brazil.sao paulo.1",
+    "update_date": "2023-10-27T00:09:15.396047",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 64000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 1048576000.0,
+    "tags": [
+        {
+            "id": 295,
+            "name": "Provisioned IOPS"
+        },
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        }
+    ],
+    "prices": [
+        {
+            "product": 93073,
+            "value": 0.238,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2023-10-27T00:09:15.396047"
+        }
+    ]
+},
+{
+    "id": 94677,
+    "company": 6,
+    "name": "gp2",
+    "location": "asia.india.bengaluru.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 16000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 262144000.0,
+    "tags": [
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        },
+        {
+            "id": 207,
+            "name": "General Purpose"
+        }
+    ],
+    "prices": [
+        {
+            "product": 94677,
+            "value": 0.114,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 94782,
+    "company": 6,
+    "name": "sc1",
+    "location": "asia.japan.osaka.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 250,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 262144000.0,
+    "tags": [
+        {
+            "id": 283,
+            "name": "HDD-backed"
+        },
+        {
+            "id": 294,
+            "name": "Cold HDD"
+        }
+    ],
+    "prices": [
+        {
+            "product": 94782,
+            "value": 0.018,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 98093,
+    "company": 6,
+    "name": "sc1",
+    "location": "asia.china.ningxia.zhongwei.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 250,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 262144000.0,
+    "tags": [
+        {
+            "id": 283,
+            "name": "HDD-backed"
+        },
+        {
+            "id": 294,
+            "name": "Cold HDD"
+        }
+    ],
+    "prices": [
+        {
+            "product": 98093,
+            "value": 0.0996,
+            "unit": "size_gio_month",
+            "currency": "CNY",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 99080,
+    "company": 6,
+    "name": "sc1",
+    "location": "middle east.united arab emirates.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 250,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 262144000.0,
+    "tags": [
+        {
+            "id": 283,
+            "name": "HDD-backed"
+        },
+        {
+            "id": 294,
+            "name": "Cold HDD"
+        }
+    ],
+    "prices": [
+        {
+            "product": 99080,
+            "value": 0.01848,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 106051,
+    "company": 6,
+    "name": "io1",
+    "location": "asia.singapore.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 64000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 1048576000.0,
+    "tags": [
+        {
+            "id": 295,
+            "name": "Provisioned IOPS"
+        },
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        }
+    ],
+    "prices": [
+        {
+            "product": 106051,
+            "value": 0.138,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 110582,
+    "company": 6,
+    "name": "io2",
+    "location": "middle east.united arab emirates.1",
+    "update_date": "2023-10-27T00:09:15.396047",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 64000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 1048576000.0,
+    "tags": [
+        {
+            "id": 295,
+            "name": "Provisioned IOPS"
+        },
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        }
+    ],
+    "prices": [
+        {
+            "product": 110582,
+            "value": 0.1518,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2023-10-27T00:09:15.396047"
+        }
+    ]
+},
+{
+    "id": 113100,
+    "company": 6,
+    "name": "gp3",
+    "location": "europe.germany.frankfurt.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 16000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 1048576000.0,
+    "tags": [
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        },
+        {
+            "id": 207,
+            "name": "General Purpose"
+        }
+    ],
+    "prices": [
+        {
+            "product": 113100,
+            "value": 0.0952,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 114702,
+    "company": 6,
+    "name": "gp2",
+    "location": "asia.korea.seoul.wl1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 16000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 262144000.0,
+    "tags": [
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        },
+        {
+            "id": 207,
+            "name": "General Purpose"
+        }
+    ],
+    "prices": [
+        {
+            "product": 114702,
+            "value": 0.1425,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 115266,
+    "company": 6,
+    "name": "gp2",
+    "location": "america.usa.northern virginia.chicago.wl1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 16000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 262144000.0,
+    "tags": [
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        },
+        {
+            "id": 207,
+            "name": "General Purpose"
+        }
+    ],
+    "prices": [
+        {
+            "product": 115266,
+            "value": 0.15,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 115621,
+    "company": 6,
+    "name": "gp2",
+    "location": "europe.germany.berlin.wl1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 16000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 262144000.0,
+    "tags": [
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        },
+        {
+            "id": 207,
+            "name": "General Purpose"
+        }
+    ],
+    "prices": [
+        {
+            "product": 115621,
+            "value": 0.155,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 118064,
+    "company": 6,
+    "name": "st1",
+    "location": "europe.italy.milan.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 500,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 524288000.0,
+    "tags": [
+        {
+            "id": 292,
+            "name": "Throughput Optimized HDD"
+        },
+        {
+            "id": 283,
+            "name": "HDD-backed"
+        }
+    ],
+    "prices": [
+        {
+            "product": 118064,
+            "value": 0.0525,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 118988,
+    "company": 6,
+    "name": "gp2",
+    "location": "america.usa.west.gov",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 16000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 262144000.0,
+    "tags": [
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        },
+        {
+            "id": 207,
+            "name": "General Purpose"
+        }
+    ],
+    "prices": [
+        {
+            "product": 118988,
+            "value": 0.12,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 121430,
+    "company": 6,
+    "name": "gp2",
+    "location": "asia.india.mumbai.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 16000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 262144000.0,
+    "tags": [
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        },
+        {
+            "id": 207,
+            "name": "General Purpose"
+        }
+    ],
+    "prices": [
+        {
+            "product": 121430,
+            "value": 0.114,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 124020,
+    "company": 6,
+    "name": "gp3",
+    "location": "europe.portugal.lisbon.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 16000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 1048576000.0,
+    "tags": [
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        },
+        {
+            "id": 207,
+            "name": "General Purpose"
+        }
+    ],
+    "prices": [
+        {
+            "product": 124020,
+            "value": 0.088,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 126290,
+    "company": 6,
+    "name": "gp2",
+    "location": "europe.united kingdom.london.wl1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 16000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 262144000.0,
+    "tags": [
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        },
+        {
+            "id": 207,
+            "name": "General Purpose"
+        }
+    ],
+    "prices": [
+        {
+            "product": 126290,
+            "value": 0.151,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 126515,
+    "company": 6,
+    "name": "gp2",
+    "location": "asia.india.delhi.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 16000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 262144000.0,
+    "tags": [
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        },
+        {
+            "id": 207,
+            "name": "General Purpose"
+        }
+    ],
+    "prices": [
+        {
+            "product": 126515,
+            "value": 0.262,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 126768,
+    "company": 6,
+    "name": "gp2",
+    "location": "america.usa.oregon.phoenix.wl1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 16000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 262144000.0,
+    "tags": [
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        },
+        {
+            "id": 207,
+            "name": "General Purpose"
+        }
+    ],
+    "prices": [
+        {
+            "product": 126768,
+            "value": 0.15,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 127568,
+    "company": 6,
+    "name": "gp2",
+    "location": "america.usa.northern virginia.atlanta.wl1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 16000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 262144000.0,
+    "tags": [
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        },
+        {
+            "id": 207,
+            "name": "General Purpose"
+        }
+    ],
+    "prices": [
+        {
+            "product": 127568,
+            "value": 0.15,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 128004,
+    "company": 6,
+    "name": "st1",
+    "location": "europe.sweden.stockholm.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 500,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 524288000.0,
+    "tags": [
+        {
+            "id": 292,
+            "name": "Throughput Optimized HDD"
+        },
+        {
+            "id": 283,
+            "name": "HDD-backed"
+        }
+    ],
+    "prices": [
+        {
+            "product": 128004,
+            "value": 0.0475,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 130143,
+    "company": 6,
+    "name": "gp2",
+    "location": "europe.united kingdom.london.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 16000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 262144000.0,
+    "tags": [
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        },
+        {
+            "id": 207,
+            "name": "General Purpose"
+        }
+    ],
+    "prices": [
+        {
+            "product": 130143,
+            "value": 0.116,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 132908,
+    "company": 6,
+    "name": "gp2",
+    "location": "asia.australia.sydney.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 16000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 262144000.0,
+    "tags": [
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        },
+        {
+            "id": 207,
+            "name": "General Purpose"
+        }
+    ],
+    "prices": [
+        {
+            "product": 132908,
+            "value": 0.12,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 132999,
+    "company": 6,
+    "name": "io1",
+    "location": "america.usa.oregon.phoenix.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 64000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 1048576000.0,
+    "tags": [
+        {
+            "id": 295,
+            "name": "Provisioned IOPS"
+        },
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        }
+    ],
+    "prices": [
+        {
+            "product": 132999,
+            "value": 0.1875,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 133422,
+    "company": 6,
+    "name": "gp2",
+    "location": "america.argentina.buenos aires.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 16000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 262144000.0,
+    "tags": [
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        },
+        {
+            "id": 207,
+            "name": "General Purpose"
+        }
+    ],
+    "prices": [
+        {
+            "product": 133422,
+            "value": 0.247,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 138861,
+    "company": 6,
+    "name": "gp2",
+    "location": "asia.japan.osaka.wl1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 16000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 262144000.0,
+    "tags": [
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        },
+        {
+            "id": 207,
+            "name": "General Purpose"
+        }
+    ],
+    "prices": [
+        {
+            "product": 138861,
+            "value": 0.18,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 141930,
+    "company": 6,
+    "name": "standard",
+    "location": "asia.australia.melbourne.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 1099511627776.0,
+    "io": 0,
+    "maximum_io": 200,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 90000000.0,
+    "tags": [
+        {
+            "id": 282,
+            "name": "Magnetic"
+        },
+        {
+            "id": 283,
+            "name": "HDD-backed"
+        }
+    ],
+    "prices": [
+        {
+            "product": 141930,
+            "value": 0.08,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 142641,
+    "company": 6,
+    "name": "io1",
+    "location": "asia.indonesia.jakarta.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 64000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 1048576000.0,
+    "tags": [
+        {
+            "id": 295,
+            "name": "Provisioned IOPS"
+        },
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        }
+    ],
+    "prices": [
+        {
+            "product": 142641,
+            "value": 0.138,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 143104,
+    "company": 6,
+    "name": "io1",
+    "location": "asia.china.beijing.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 64000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 1048576000.0,
+    "tags": [
+        {
+            "id": 295,
+            "name": "Provisioned IOPS"
+        },
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        }
+    ],
+    "prices": [
+        {
+            "product": 143104,
+            "value": 0.858,
+            "unit": "size_gio_month",
+            "currency": "CNY",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 145679,
+    "company": 6,
+    "name": "io1",
+    "location": "europe.germany.frankfurt.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 64000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 1048576000.0,
+    "tags": [
+        {
+            "id": 295,
+            "name": "Provisioned IOPS"
+        },
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        }
+    ],
+    "prices": [
+        {
+            "product": 145679,
+            "value": 0.149,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 145756,
+    "company": 6,
+    "name": "gp2",
+    "location": "asia.japan.osaka.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 16000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 262144000.0,
+    "tags": [
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        },
+        {
+            "id": 207,
+            "name": "General Purpose"
+        }
+    ],
+    "prices": [
+        {
+            "product": 145756,
+            "value": 0.12,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 150298,
+    "company": 6,
+    "name": "sc1",
+    "location": "america.usa.northern virginia.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 250,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 262144000.0,
+    "tags": [
+        {
+            "id": 283,
+            "name": "HDD-backed"
+        },
+        {
+            "id": 294,
+            "name": "Cold HDD"
+        }
+    ],
+    "prices": [
+        {
+            "product": 150298,
+            "value": 0.015,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 150647,
+    "company": 6,
+    "name": "io2",
+    "location": "america.usa.northern virginia.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 70368744177664.0,
+    "io": 0,
+    "maximum_io": 256000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 4194304000.0,
+    "tags": [
+        {
+            "id": 295,
+            "name": "Provisioned IOPS"
+        },
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        }
+    ],
+    "prices": [
+        {
+            "product": 150647,
+            "value": 0.125,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 151087,
+    "company": 6,
+    "name": "io1",
+    "location": "america.usa.east.gov",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 64000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 1048576000.0,
+    "tags": [
+        {
+            "id": 295,
+            "name": "Provisioned IOPS"
+        },
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        }
+    ],
+    "prices": [
+        {
+            "product": 151087,
+            "value": 0.15,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 152206,
+    "company": 6,
+    "name": "sc1",
+    "location": "asia.india.bengaluru.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 250,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 262144000.0,
+    "tags": [
+        {
+            "id": 283,
+            "name": "HDD-backed"
+        },
+        {
+            "id": 294,
+            "name": "Cold HDD"
+        }
+    ],
+    "prices": [
+        {
+            "product": 152206,
+            "value": 0.0174,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 152274,
+    "company": 6,
+    "name": "io1",
+    "location": "europe.ireland.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 64000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 1048576000.0,
+    "tags": [
+        {
+            "id": 295,
+            "name": "Provisioned IOPS"
+        },
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        }
+    ],
+    "prices": [
+        {
+            "product": 152274,
+            "value": 0.138,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 153587,
+    "company": 6,
+    "name": "gp2",
+    "location": "america.usa.oregon.las vegas.wl1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 16000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 262144000.0,
+    "tags": [
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        },
+        {
+            "id": 207,
+            "name": "General Purpose"
+        }
+    ],
+    "prices": [
+        {
+            "product": 153587,
+            "value": 0.15,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 154735,
+    "company": 6,
+    "name": "gp2",
+    "location": "europe.poland.warsow.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 16000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 262144000.0,
+    "tags": [
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        },
+        {
+            "id": 207,
+            "name": "General Purpose"
+        }
+    ],
+    "prices": [
+        {
+            "product": 154735,
+            "value": 0.204,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 156471,
+    "company": 6,
+    "name": "gp2",
+    "location": "europe.sweden.stockholm.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 16000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 262144000.0,
+    "tags": [
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        },
+        {
+            "id": 207,
+            "name": "General Purpose"
+        }
+    ],
+    "prices": [
+        {
+            "product": 156471,
+            "value": 0.1045,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 156496,
+    "company": 6,
+    "name": "io1",
+    "location": "america.usa.west.gov",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 64000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 1048576000.0,
+    "tags": [
+        {
+            "id": 295,
+            "name": "Provisioned IOPS"
+        },
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        }
+    ],
+    "prices": [
+        {
+            "product": 156496,
+            "value": 0.15,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 157656,
+    "company": 6,
+    "name": "gp2",
+    "location": "america.usa.oregon.phoenix.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 16000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 262144000.0,
+    "tags": [
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        },
+        {
+            "id": 207,
+            "name": "General Purpose"
+        }
+    ],
+    "prices": [
+        {
+            "product": 157656,
+            "value": 0.15,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 159099,
+    "company": 6,
+    "name": "gp2",
+    "location": "asia.australia.perth.1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 16000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 262144000.0,
+    "tags": [
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        },
+        {
+            "id": 207,
+            "name": "General Purpose"
+        }
+    ],
+    "prices": [
+        {
+            "product": 159099,
+            "value": 0.228,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+},
+{
+    "id": 164035,
+    "company": 6,
+    "name": "gp2",
+    "location": "america.usa.northern virginia.miami.wl1",
+    "update_date": "2024-06-27T18:00:54.205938",
+    "description": "",
+    "link": "",
+    "classtype": "StorageProductORM",
+    "family": "block storage",
+    "size": 0.0,
+    "maximum_size": 17592186044416.0,
+    "io": 0,
+    "maximum_io": 16000,
+    "bandwidth": 0.0,
+    "maximum_bandwidth": 262144000.0,
+    "tags": [
+        {
+            "id": 290,
+            "name": "SSD-backed"
+        },
+        {
+            "id": 207,
+            "name": "General Purpose"
+        }
+    ],
+    "prices": [
+        {
+            "product": 164035,
+            "value": 0.15,
+            "unit": "size_gio_month",
+            "currency": "USD",
+            "date": "2024-06-27T18:00:54.205938"
+        }
+    ]
+}

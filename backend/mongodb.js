@@ -49,6 +49,17 @@ const mongoDb = async () => {
         }
       });
     global.cloud_locations = fetched_locations;
+
+    const fetched_storages = await mongoose.connection.db
+      .collection("storages")
+      .find({})
+      .toArray((err) => {
+        if (err) console.log(err);
+        else {
+          console.log(fetched_storages);
+        }
+      });
+    global.cloud_storages = fetched_storages;
   } catch (error) {
     console.error("MongoDB connection error:", error);
   }

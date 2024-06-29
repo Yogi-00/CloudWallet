@@ -9,8 +9,8 @@ import { useState, useEffect } from "react";
 function App() {
   const [offers, setOffers] = useState([]);
   const [query, setQuery] = useState("");
-  const [selectedOptions, setSelectedOptions] = useState([]);
-  const [rangeValue, setRangeValue] = useState([210000]);
+  // const [selectedOptions, setSelectedOptions] = useState([]);
+  // const [rangeValue, setRangeValue] = useState([210000]);
   const [rangeCpu, setRangeCpu] = useState([896]);
   const [rangeRam, setRangeRam] = useState([36000]);
   const [rangeDisk, setRangeDisk] = useState([6000000]);
@@ -38,7 +38,7 @@ function App() {
   }, []);
 
   const handleRangeChange = (event) => {
-    setRangeValue([Number(event.target.value)]);
+    // setRangeValue([Number(event.target.value)]);
   };
 
   const handleCpuChange = (event) => {
@@ -70,7 +70,7 @@ function App() {
   };
 
   const handleChange = (selected) => {
-    setSelectedOptions(selected);
+    // setSelectedOptions(selected);
   };
 
   const handleInputChange = (event) => {
@@ -90,7 +90,7 @@ function App() {
   function filteredData(
     offers,
     query,
-    rangeValue,
+    // rangeValue,
     rangeCpu,
     rangeRam,
     rangeDisk,
@@ -237,7 +237,7 @@ function App() {
   const result = filteredData(
     offers,
     query,
-    rangeValue,
+    // rangeValue,
     rangeCpu,
     rangeRam,
     rangeDisk,
@@ -253,9 +253,9 @@ function App() {
       <div className="grid grid-rows-12 grid-cols-12 gap-2 m-2">
         <div className="row-span-12 col-span-2 h-full overflow-y-auto p-4">
           <Sidebar
-            selectedOptions={selectedOptions}
+            // // selectedOptions={selectedOptions}
             handleChange={handleChange}
-            rangeValue={rangeValue}
+            // // rangeValue={rangeValue}
             handleRangeChange={handleRangeChange}
             rangeCpu={rangeCpu}
             handleCpuChange={handleCpuChange}

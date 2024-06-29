@@ -1,32 +1,22 @@
-import Cpu from "./Cpu/Cpu";
-import Ram from "./Cpu/Ram";
-import Disk from "./Cpu/Disk";
-import Gpu from "./Cpu/Gpu";
-import IBandWidth from "./Cpu/IBandWidth";
-import NetworkSpeed from "./Cpu/NetworkSpeed";
+import BandWidthSto from "./Size/BandwidthSto";
+import Io from "./Size/Io";
+import Size from "./Size/Size";
 import Company from "./Compute/Company";
 import Location from "./Compute/Location";
 import { useNavigate } from "react-router-dom";
 const Sidebar = ({
-  rangeCpu,
-  handleCpuChange,
-  rangeRam,
-  handleRamChange,
   selectedCompany,
   handleCompanyChange,
   selectedLocation,
   handleLocationChange,
-  rangeDisk,
-  handleDiskChange,
-  rangeGpu,
-  handleGpuChange,
-  rangeBandWidth,
-  handleBandWidthChange,
-  rangeNetworkSpeed,
-  handleNetworkSpeedChange,
-
   handleInputChange,
   query,
+  rangeSize,
+  handleSizeChange,
+  rangeIo,
+  handleIoChange,
+  rangeBandWidthSto,
+  handleBandWidthStoChange,
 }) => {
   const navigate = useNavigate();
   const handleChange = (event) => {
@@ -82,62 +72,31 @@ const Sidebar = ({
               </svg>
             </button>
           </div>
-
-          <div>
-            <Company
-              selectedCompany={selectedCompany}
-              handleCompanyChange={handleCompanyChange}
-            />
-          </div>
           <div>
             <Location
               selectedLocation={selectedLocation}
               handleLocationChange={handleLocationChange}
             />
           </div>
-
           <div>
-            <Cpu
-              rangeCpu={rangeCpu}
-              handleCpuChange={handleCpuChange}
-              maxValue={896}
+            <Company
+              selectedCompany={selectedCompany}
+              handleCompanyChange={handleCompanyChange}
             />
-          </div>
-
-          <div>
-            <Ram
-              rangeRam={rangeRam}
-              handleRamChange={handleRamChange}
-              maxValue={35185}
+            <Size
+              rangeSize={rangeSize}
+              handleSizeChange={handleSizeChange}
+              maxValue={70368744177664}
             />
-          </div>
-          <div>
-            <Disk
-              rangeDisk={rangeDisk}
-              handleDiskChange={handleDiskChange}
-              maxValue={6000000}
+            <Io
+              rangeIo={rangeIo}
+              handleIoChange={handleIoChange}
+              maxValue={300000}
             />
-          </div>
-          <div>
-            <Gpu
-              rangeGpu={rangeGpu}
-              handleGpuChange={handleGpuChange}
-              maxValue={16}
-            />
-          </div>
-          <div>
-            <IBandWidth
-              rangeBandWidth={rangeBandWidth}
-              handleBandWidthChange={handleBandWidthChange}
-              maxValue={125000000}
-            />
-          </div>
-
-          <div>
-            <NetworkSpeed
-              rangeNetworkSpeed={rangeNetworkSpeed}
-              handleNetworkSpeedChange={handleNetworkSpeedChange}
-              maxValue={625000000000}
+            <BandWidthSto
+              rangeBandWidthSto={rangeBandWidthSto}
+              handleBandWidthStoChange={handleBandWidthStoChange}
+              maxValue={800000000000}
             />
           </div>
         </div>

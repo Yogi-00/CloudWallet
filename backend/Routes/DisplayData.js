@@ -8,6 +8,7 @@ router.post("/CloudData", (req, res) => {
       global.cloud_companies,
       global.cloud_provider,
       global.cloud_locations,
+      global.cloud_storages,
     ]);
   } catch (err) {
     console.error(err);

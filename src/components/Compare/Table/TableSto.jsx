@@ -1,7 +1,7 @@
 import React from "react";
 // import Card from "../components/Card";
 
-function Table({ result }) {
+function TableSto({ result }) {
   return (
     <>
       <section className="container px-4 mx-auto">
@@ -23,14 +23,14 @@ function Table({ result }) {
                         scope="col"
                         className="px-4 py-3.5 text-sm font-normal text-left rtl:text-right text-white"
                       >
-                        CPU
+                        Size
                       </th>
 
                       <th
                         scope="col"
                         className="px-4 py-3.5 text-sm font-normal text-left rtl:text-right text-white"
                       >
-                        RAM
+                        M-Size
                       </th>
 
                       <th
@@ -50,19 +50,13 @@ function Table({ result }) {
                         scope="col"
                         className="px-4 py-3.5 text-sm font-normal text-left rtl:text-right text-white"
                       >
-                        Price
+                        Io
                       </th>
-                      {/* <th
-                        scope="col"
-                        className="px-4 py-3.5 text-sm font-normal text-left rtl:text-right text-white"
-                      >
-                        Id
-                      </th> */}
                       <th
                         scope="col"
                         className="px-4 py-3.5 text-sm font-normal text-left rtl:text-right text-white"
                       >
-                        Gpu
+                        M-Io
                       </th>
                       <th
                         scope="col"
@@ -74,7 +68,7 @@ function Table({ result }) {
                         scope="col"
                         className="px-4 py-3.5 text-sm font-normal text-left rtl:text-right text-white"
                       >
-                        Network Speed
+                        M-Bandwidth
                       </th>
                       <th
                         scope="col"
@@ -187,4 +181,4 @@ function Table({ result }) {
   );
 }
 
-export default Table;
+export default TableSto;

@@ -4,15 +4,16 @@ function Card({
   company,
   link,
   location,
-  gpu,
-  disk,
-  ram,
-  cpu,
   name,
+  maximum_bandwidth,
+  maximum_io,
+  maximum_size,
   id,
-  price,
-  internal_network_speed,
-  external_network_speed,
+  // prices,
+
+  size,
+  io,
+  bandwitdh,
 }) {
   const companyNames = {
     1: "linode",
@@ -48,29 +49,27 @@ function Card({
           </div>
         </td>
         <td className="px-4 py-4 text-sm text-black-700  whitespace-nowrap">
-          {cpu}
+          {size}
         </td>
         <td className="px-4 py-4 text-sm text-black-700  whitespace-nowrap">
-          {ram / (1024 * 1024 * 1024)}
+          {maximum_size}
         </td>
 
         <td className="px-4 py-4 text-sm text-black-700  whitespace-nowrap">
           {location}
         </td>
         <td className="px-4 py-4 text-sm text-black-700  whitespace-nowrap">
-          {price}
-        </td>
-        {/* <td className="px-4 py-4 text-sm text-black-700  whitespace-nowrap">
-          {id}
-        </td> */}
-        <td className="px-4 py-4 text-sm text-black-700  whitespace-nowrap">
-          {gpu}
+          {/* {prices} */}
+          {io}
         </td>
         <td className="px-4 py-4 text-sm text-black-700  whitespace-nowrap">
-          {internal_network_speed}
+          {maximum_io}
         </td>
         <td className="px-4 py-4 text-sm text-black-700  whitespace-nowrap">
-          {external_network_speed}
+          {bandwitdh}
+        </td>
+        <td className="px-4 py-4 text-sm text-black-700  whitespace-nowrap">
+          {maximum_bandwidth}
         </td>
         <td className="px-4 py-4 text-sm text-black-700  whitespace-nowrap">
           <button class="p-0 w-12 h-10 bg-gray-500 rounded-full hover:bg-gray-400 active:shadow-lg mouse shadow transition ease-in duration-200 focus:outline-none">
@@ -86,7 +85,7 @@ function Card({
                                     C15.952,9,16,9.447,16,10z"
               />
             </svg>
-          </button>{" "}
+          </button>
         </td>
       </tr>
       {/* </tbody> */}
