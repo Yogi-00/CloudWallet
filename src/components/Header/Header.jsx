@@ -1,8 +1,19 @@
-import React from "react";
+import React, { useState } from "react";
 import { Link, NavLink } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
+
 import logo from "../../assets/img/Clogo.jpg";
 
 export default function Header() {
+  const navigate = useNavigate();
+  const [user, setUser] = useState(localStorage.getItem("userEmail"));
+  console.log(user);
+  const logOut = () => {
+    localStorage.removeItem("userEmail");
+    localStorage.removeItem("authToken");
+    setUser(localStorage.getItem("userEmail"));
+    navigate("/");
+  };
   return (
     <header className="shadow sticky z-50 top-0">
       <nav className="bg-white border-gray-200 px-4 lg:px-6 py-2.5">
@@ -17,18 +28,32 @@ export default function Header() {
             />
           </Link>
           <div className="flex items-center lg:order-2">
-            <Link
-              to="signup"
-              className="text-gray-800 hover:bg-gray-50 focus:ring-4 focus:ring-gray-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 mr-2 focus:outline-none"
-            >
-              sign in
-            </Link>
-            <Link
-              to="/login"
-              className="text-gray-800 hover:bg-gray-50 focus:ring-4 focus:ring-gray-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 mr-2 focus:outline-none"
-            >
-              Log in
-            </Link>
+            {user ? (
+              <div></div>
+            ) : (
+              <Link
+                to="signup"
+                className="text-gray-800 hover:bg-gray-50 focus:ring-4 focus:ring-gray-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 mr-2 focus:outline-none"
+              >
+                sign in
+              </Link>
+            )}
+            {user ? (
+              <div
+                onClick={logOut}
+                className="text-gray-800 hover:bg-gray-50 focus:ring-4 focus:ring-gray-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 mr-2 focus:outline-none"
+              >
+                Log Out
+              </div>
+            ) : (
+              <Link
+                to="/login"
+                className="text-gray-800 hover:bg-gray-50 focus:ring-4 focus:ring-gray-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 mr-2 focus:outline-none"
+              >
+                Log in
+              </Link>
+            )}
+
             <Link
               to="#"
               className="text-white bg-orange-700 hover:bg-orange-800 focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 mr-2 focus:outline-none"
@@ -65,7 +90,7 @@ export default function Header() {
                   About
                 </NavLink>
               </li>
-              <li>
+              {/* <li>
                 <NavLink
                   to="/contact"
                   className={({ isActive }) =>
@@ -76,7 +101,7 @@ export default function Header() {
                 >
                   Contact
                 </NavLink>
-              </li>
+              </li> */}
               {/* <li>
                 <NavLink
                   to="/calculator"
@@ -89,6 +114,7 @@ export default function Header() {
                   Calculator
                 </NavLink>
               </li> */}
+
               <li>
                 <NavLink
                   to="/compare"
@@ -98,9 +124,10 @@ export default function Header() {
                     } border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 hover:text-orange-700 lg:p-0`
                   }
                 >
-                  Compare
+                  Compute
                 </NavLink>
               </li>
+
               <li>
                 <NavLink
                   to="/storage"
@@ -113,6 +140,7 @@ export default function Header() {
                   Storage
                 </NavLink>
               </li>
+
               {/* <li>
                 <NavLink
                   to="/github"

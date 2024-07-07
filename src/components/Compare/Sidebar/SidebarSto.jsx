@@ -4,6 +4,7 @@ import Size from "./Size/Size";
 import Company from "./Compute/Company";
 import Location from "./Compute/Location";
 import { useNavigate } from "react-router-dom";
+import React, { useState, useEffect } from "react";
 const Sidebar = ({
   selectedCompany,
   handleCompanyChange,
@@ -22,6 +23,28 @@ const Sidebar = ({
   const handleChange = (event) => {
     navigate("/pricing");
   };
+
+  const [user, setUsers] = useState([]);
+
+  const loadData = async () => {
+    let response = await fetch("http://localhost:5000/api/getuser", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+    });
+
+    response = await response.json();
+    const curr_email = localStorage.getItem("userEmail");
+    console.log(response[0]);
+    const curr_user = response.filter((user) => user.email == curr_email);
+    console.log(curr_user);
+    setUsers(curr_user[0]);
+  };
+
+  useEffect(() => {
+    loadData();
+  }, []);
   return (
     <>
       <div
@@ -30,23 +53,23 @@ const Sidebar = ({
       >
         <div className="space-y-6 md:space-y-10 mt-10">
           <h1 className="font-bold text-4xl text-center md:hidden">
-            D<span className="text-teal-600">.</span>
+            C<span className="text-teal-600">.</span>
           </h1>
           <h1 className="hidden md:block font-bold text-sm md:text-xl text-center">
-            Dashwind<span className="text-teal-600">.</span>
+            STORAGE<span className="text-teal-600">.</span>
           </h1>
           <div id="profile" className="space-y-3">
             <img
-              src="https://images.unsplash.com/photo-1628157588553-5eeea00af15c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+              src="https://randomuser.me/api/portraits/men/94.jpg"
               alt="Avatar user"
               className="w-10 md:w-16 rounded-full mx-auto"
               onClick={handleChange}
             />
             <div>
               <h2 className="font-medium text-xs md:text-sm text-center text-teal-500">
-                Eduard Pantazi
+                {user.name}
               </h2>
-              <p className="text-xs text-gray-500 text-center">Administrator</p>
+              <p className="text-xs text-gray-500 text-center">{user.role}</p>
             </div>
           </div>
           <div className="flex border-2 border-gray-200 rounded-md focus-within:ring-2 ring-teal-500">

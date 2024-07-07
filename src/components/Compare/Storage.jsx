@@ -166,7 +166,7 @@ function App() {
         maximum_bandwidth,
         name,
         id,
-        // prices,
+        prices,
       }) => (
         <Card
           key={id}
@@ -181,7 +181,7 @@ function App() {
           maximum_size={maximum_size}
           bandwidth={bandwidth}
           name={name}
-          // prices={prices[0].value}
+          prices={prices[0].value}
         />
       )
     );

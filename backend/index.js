@@ -26,6 +26,8 @@ app.get("/", (req, res) => {
 app.use(express.json());
 app.use("/api", require("./Routes/DisplayData"));
 app.use("/api", require("./Routes/CreateUser"));
+app.use("/api", require("./Routes/addfav"));
+app.use("/api", require("./Routes/getuser"));
 
 app.listen(port, () => {
   console.log(`connected to port ${port}`);

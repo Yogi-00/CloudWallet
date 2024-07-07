@@ -29,7 +29,7 @@ router.post(
         name: req.body.name,
         password: secPassword,
         email: req.body.email,
-        location: req.body.location,
+        role: req.body.role,
       }).then(() => {
         res.json({ success: true });
       });
@@ -82,5 +82,37 @@ router.post(
     }
   }
 );
+
+// router.post('/addfav',
+
+//   async (req,res) => {
+
+//       const { email, roleName, fieldName } = req.body;
+//       const mongoURI =
+//       "mongodb://cloudcompare:cloudcompare@ac-veqngqf-shard-00-00.ltrgyjy.mongodb.net:27017,ac-veqngqf-shard-00-01.ltrgyjy.mongodb.net:27017,ac-veqngqf-shard-00-02.ltrgyjy.mongodb.net:27017/CloudCompare?ssl=true&replicaSet=atlas-wvkdjw-shard-0&authSource=admin&retryWrites=true&w=majority&appName=Cluster0";
+
+//       if (!email || !roleName ) {
+//           console.log(roleName)
+//           return res.status(400).send('email and roleName are required');
+//       }
+
+//       try {
+//           await mongoose.connect(mongoURI);
+//           const result = await mongoose.connection.db.collection('users').findOneAndUpdate(
+//               { email: email },
+//               { $addToSet: { favorites: {role : roleName, field : fieldName}} },
+//               { returnOriginal: false }
+//           )
+//           .then(
+//               () => {
+//                   res.status(200).send({success : true})
+//               }
+//           )
+
+//       } catch (error) {
+//           console.error('Error adding item to favorites', error);
+//           res.status(500).send('Internal Server Error');
+//       }
+//   })
 
 module.exports = router;

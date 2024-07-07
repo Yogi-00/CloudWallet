@@ -39,6 +39,12 @@ function TableSto({ result }) {
                       >
                         Location
                       </th>
+                      <th
+                        scope="col"
+                        className="px-4 py-3.5 text-sm font-normal text-left rtl:text-right text-white"
+                      >
+                        Price
+                      </th>
 
                       {/* <th
                         scope="col"

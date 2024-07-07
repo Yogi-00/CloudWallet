@@ -6,7 +6,7 @@ const UserSchema = new Schema({
     type: String,
     required: true,
   },
-  location: {
+  role: {
     type: String,
     required: true,
   },
@@ -17,6 +17,10 @@ const UserSchema = new Schema({
   password: {
     type: String,
     required: true,
+  },
+  favorites: {
+    type: Array,
+    required: false,
   },
   date: {
     type: Date,
