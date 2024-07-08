@@ -34,7 +34,7 @@ const Sidebar = ({
     navigate("/pricing");
   };
 
-  const [user, setUsers] = useState([]);
+  const [user, setUsers] = useState({ name: "Loading...", role: "Loading..." });
 
   const loadData = async () => {
     let response = await fetch("http://localhost:5000/api/getuser", {

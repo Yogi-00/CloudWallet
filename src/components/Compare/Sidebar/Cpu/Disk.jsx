@@ -8,7 +8,7 @@ function Disk({ rangeDisk, handleDiskChange, maxValue }) {
         rangeValue={rangeDisk}
         handleRangeChange={handleDiskChange}
         max={maxValue}
-        name="Disk"
+        name="Disk (in Gb)"
       />
     </>
   );

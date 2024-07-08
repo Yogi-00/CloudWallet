@@ -143,7 +143,7 @@ const Pricing = () => {
                       scope="col"
                       className="px-4 py-3.5 text-sm font-normal text-left rtl:text-right text-white"
                     >
-                      Price
+                      Price($)
                     </th>
 
                     <th
@@ -290,12 +290,12 @@ const Pricing = () => {
                       Location
                     </th>
 
-                    {/* <th
-                        scope="col"
-                        className="px-4 py-3.5 text-sm font-normal text-left rtl:text-right text-white"
-                      >
-                        Location
-                      </th> */}
+                    <th
+                      scope="col"
+                      className="px-4 py-3.5 text-sm font-normal text-left rtl:text-right text-white"
+                    >
+                      Price($)
+                    </th>
                     <th
                       scope="col"
                       className="px-4 py-3.5 text-sm font-normal text-left rtl:text-right text-white"
@@ -360,6 +360,9 @@ const Pricing = () => {
                           {sto.location}
                         </td>
                         <td className="px-4 py-4 text-sm text-black-700  whitespace-nowrap">
+                          {sto.id}
+                        </td>
+                        <td className="px-4 py-4 text-sm text-black-700  whitespace-nowrap">
                           {/* {prices} */}
                           {sto.io}
                         </td>
@@ -367,7 +370,7 @@ const Pricing = () => {
                           {sto.maximum_io}
                         </td>
                         <td className="px-4 py-4 text-sm text-black-700  whitespace-nowrap">
-                          {sto.bandwitdh}
+                          {sto.bandwidth}
                         </td>
                         <td className="px-4 py-4 text-sm text-black-700  whitespace-nowrap">
                           {sto.maximum_bandwidth}

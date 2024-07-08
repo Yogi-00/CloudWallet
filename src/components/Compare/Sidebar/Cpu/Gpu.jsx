@@ -8,7 +8,7 @@ function Gpu({ rangeGpu, handleGpuChange, maxValue }) {
         rangeValue={rangeGpu}
         handleRangeChange={handleGpuChange}
         max={maxValue}
-        name="Gpu"
+        name="Gpu (in Gb)"
       />
     </>
   );

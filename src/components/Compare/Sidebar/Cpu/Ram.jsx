@@ -8,7 +8,7 @@ function Ram({ rangeRam, handleRamChange, maxValue }) {
         rangeValue={rangeRam}
         handleRangeChange={handleRamChange}
         max={maxValue}
-        name="Ram"
+        name="Ram (in Gb)"
       />
     </>
   );

@@ -31,7 +31,7 @@ function Signup() {
     if (!json.success) {
       alert("Enter valid creadentials");
     } else {
-      navigate("/compare");
+      navigate("/");
     }
   };
   const onChange = (event) => {

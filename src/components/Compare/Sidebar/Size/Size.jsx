@@ -8,7 +8,7 @@ function Size({ rangeSize, handleSizeChange, maxValue }) {
         rangeValue={rangeSize}
         handleRangeChange={handleSizeChange}
         max={maxValue}
-        name="Size"
+        name="Size (in Gb)"
       />
     </>
   );

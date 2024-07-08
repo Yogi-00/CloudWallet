@@ -8,7 +8,7 @@ function Cpu({ rangeCpu, handleCpuChange, maxValue }) {
         rangeValue={rangeCpu}
         handleRangeChange={handleCpuChange}
         max={maxValue}
-        name="Cpu"
+        name="Cpu (in Gb)"
       />
     </>
   );
