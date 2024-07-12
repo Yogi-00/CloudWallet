@@ -7,7 +7,7 @@ const mongoDb = async () => {
     console.log("MongoDB connected...");
 
     const fetched_data = await mongoose.connection.db
-      .collection("data")
+      .collection("compute")
       .find({})
       .toArray(async (err) => {
         if (err) console.log(err);

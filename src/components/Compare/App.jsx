@@ -13,7 +13,7 @@ function App() {
   // const [rangeValue, setRangeValue] = useState([210000]);
   const [rangeCpu, setRangeCpu] = useState([896]);
   const [rangeRam, setRangeRam] = useState([36000]);
-  const [rangeDisk, setRangeDisk] = useState([6000000]);
+  const [rangeDisk, setRangeDisk] = useState([600000000000]);
   const [rangeGpu, setRangeGpu] = useState([16]);
   const [rangeBandWidth, setRangeBandWidth] = useState([125000000]);
   const [rangeNetworkSpeed, setRangeNetworkSpeed] = useState([625000000000]);

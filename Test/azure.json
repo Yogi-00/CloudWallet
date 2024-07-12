@@ -1,0 +1,1552 @@
+[
+    {
+        "id": 247705,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "america.usa.illinois",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247705,
+            "value": 0.0052,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247732,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "america.usa.california.3",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247732,
+            "value": 0.0052,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247731,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "america.usa.california.2",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247731,
+            "value": 0.0052,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247695,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "america.usa.virginia.1",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247695,
+            "value": 0.0052,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247696,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "america.usa.virginia.2",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247696,
+            "value": 0.0052,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247716,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "europe.sweden.gavle",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247716,
+            "value": 0.0054,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247692,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "asia.india.pune",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247692,
+            "value": 0.0056,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 231309,
+        "company": 8,
+        "name": "b2ptsv2-standard",
+        "location": "asia.india.pune",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 1000000000.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 231309,
+            "value": 0.0056,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247706,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "europe.ireland",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247706,
+            "value": 0.0057,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 2772731,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "america.mexico.queretaro state",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 2772731,
+            "value": 0.00572,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 3407369,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "europe.spain.madrid",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 3407369,
+            "value": 0.00572,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247690,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "america.canada.toronto",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247690,
+            "value": 0.0058,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247691,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "america.canada.quebec city",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247691,
+            "value": 0.0058,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247723,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "europe.united kingdom.cardiff",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247723,
+            "value": 0.00588,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247722,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "europe.united kingdom.london",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247722,
+            "value": 0.0059,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247697,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "europe.france.paris",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247697,
+            "value": 0.0059,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247700,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "europe.germany.frankfurt.2",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247700,
+            "value": 0.006,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 292316,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "europe.italy.milano",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 292316,
+            "value": 0.006,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 293740,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "middle east.israel",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 293740,
+            "value": 0.006,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247728,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "europe.netherlands",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247728,
+            "value": 0.006,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247726,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "america.usa.virginia.gouv",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247726,
+            "value": 0.0061,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247724,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "america.usa.arizona.gouv",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247724,
+            "value": 0.0061,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247938,
+        "company": 8,
+        "name": "b2atsv2-standard",
+        "location": "asia.india.pune",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 1000000000.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247938,
+            "value": 0.00615,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247730,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "america.usa.california.1",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247730,
+            "value": 0.0062,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247727,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "america.usa.wyoming",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247727,
+            "value": 0.00624,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247693,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "america.usa.iowa",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247693,
+            "value": 0.00624,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247721,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "middle east.united arab emirates.dubai",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247721,
+            "value": 0.00624,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247713,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "america.usa.texas",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247713,
+            "value": 0.00624,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247710,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "middle east.qatar.doha",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247710,
+            "value": 0.0063,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247703,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "asia.korea.seoul",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247703,
+            "value": 0.0065,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247725,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "america.usa.texas.gouv",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247725,
+            "value": 0.0065,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247685,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "oceania.australia.canberra.2",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247685,
+            "value": 0.0066,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247684,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "oceania.australia.canberra.1",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247684,
+            "value": 0.0066,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247686,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "oceania.australia.new south wales",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247686,
+            "value": 0.0066,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247718,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "europe.switzerland.zurich",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247718,
+            "value": 0.0066,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247709,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "europe.poland.warsow",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247709,
+            "value": 0.0066,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247687,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "oceania.australia.victoria",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247687,
+            "value": 0.0066,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247707,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "europe.norway.oslo",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247707,
+            "value": 0.0066,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247714,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "asia.singapore",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247714,
+            "value": 0.0066,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247701,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "asia.japan.tokyo",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247701,
+            "value": 0.0068,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247711,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "africa.south africa.johannesburg",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247711,
+            "value": 0.0068,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247717,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "europe.sweden.staffanstorp",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247717,
+            "value": 0.00702,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247704,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "asia.korea.busan",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247704,
+            "value": 0.00702,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247694,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "asia.china.hong kong",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247694,
+            "value": 0.0073,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247702,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "asia.japan.osaka",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247702,
+            "value": 0.00749,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 231325,
+        "company": 8,
+        "name": "b2ptsv2-standard",
+        "location": "america.usa.california.3",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 2.0,
+        "ram": 1000000000.0,
+        "disk": 0.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 231325,
+            "value": 0.0075,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247699,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "europe.germany.berlin",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247699,
+            "value": 0.0078,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247715,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "asia.india.chennai",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247715,
+            "value": 0.0078,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247720,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "middle east.united arab emirates.abu dhabi",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247720,
+            "value": 0.0078,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    },
+    {
+        "id": 247729,
+        "company": 8,
+        "name": "b1ls-standard",
+        "location": "asia.india.mumbai",
+        "update_date": "2024-07-11T00:06:08.521719",
+        "description": "",
+        "link": "",
+        "classtype": "ComputeProductORM",
+        "dedicated": false,
+        "baremetal": false,
+        "cpu": 1.0,
+        "ram": 500000000.0,
+        "disk": 4000000000.0,
+        "gpu": 0.0,
+        "internal_network_speed": 0.0,
+        "external_network_speed": 0.0,
+        "tags": [
+            {
+                "id": 311,
+                "name": "linux"
+            }
+        ],
+        "price": {
+            "product": 247729,
+            "value": 0.0078,
+            "unit": "hour",
+            "currency": "USD",
+            "date": "2024-07-11T00:06:08.521719"
+        }
+    }
+]

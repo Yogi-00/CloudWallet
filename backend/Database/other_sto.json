@@ -1,0 +1,1708 @@
+[
+    {
+        "id": 262226,
+        "company": 12,
+        "name": "block_500",
+        "location": "sgp1",
+        "update_date": "2024-06-04T00:05:21.075057",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "block storage",
+        "size": 500000000000.0,
+        "maximum_size": 500000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 0.0,
+        "maximum_bandwidth": 0.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 262226,
+                "value": 50.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            },
+            {
+                "product": 262226,
+                "value": 0.075,
+                "unit": "size_gio_hour",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            }
+        ]
+    },
+    {
+        "id": 262228,
+        "company": 12,
+        "name": "block_500",
+        "location": "lon1",
+        "update_date": "2024-06-04T00:05:21.075057",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "block storage",
+        "size": 500000000000.0,
+        "maximum_size": 500000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 0.0,
+        "maximum_bandwidth": 0.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 262228,
+                "value": 50.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            },
+            {
+                "product": 262228,
+                "value": 0.075,
+                "unit": "size_gio_hour",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            }
+        ]
+    },
+    {
+        "id": 262230,
+        "company": 12,
+        "name": "block_500",
+        "location": "fra1",
+        "update_date": "2024-06-04T00:05:21.075057",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "block storage",
+        "size": 500000000000.0,
+        "maximum_size": 500000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 0.0,
+        "maximum_bandwidth": 0.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 262230,
+                "value": 50.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            },
+            {
+                "product": 262230,
+                "value": 0.075,
+                "unit": "size_gio_hour",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            }
+        ]
+    },
+    {
+        "id": 262232,
+        "company": 12,
+        "name": "block_500",
+        "location": "tor1",
+        "update_date": "2024-06-04T00:05:21.075057",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "block storage",
+        "size": 500000000000.0,
+        "maximum_size": 500000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 0.0,
+        "maximum_bandwidth": 0.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 262232,
+                "value": 50.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            },
+            {
+                "product": 262232,
+                "value": 0.075,
+                "unit": "size_gio_hour",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            }
+        ]
+    },
+    {
+        "id": 262234,
+        "company": 12,
+        "name": "block_500",
+        "location": "syd1",
+        "update_date": "2024-06-04T00:05:21.075057",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "block storage",
+        "size": 500000000000.0,
+        "maximum_size": 500000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 0.0,
+        "maximum_bandwidth": 0.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 262234,
+                "value": 50.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            },
+            {
+                "product": 262234,
+                "value": 0.075,
+                "unit": "size_gio_hour",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            }
+        ]
+    },
+    {
+        "id": 262236,
+        "company": 12,
+        "name": "block_500",
+        "location": "blr1",
+        "update_date": "2024-06-04T00:05:21.075057",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "block storage",
+        "size": 500000000000.0,
+        "maximum_size": 500000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 0.0,
+        "maximum_bandwidth": 0.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 262236,
+                "value": 50.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            },
+            {
+                "product": 262236,
+                "value": 0.075,
+                "unit": "size_gio_hour",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            }
+        ]
+    },
+    {
+        "id": 262238,
+        "company": 12,
+        "name": "block_1000",
+        "location": "nyc1",
+        "update_date": "2024-06-04T00:05:21.075057",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "block storage",
+        "size": 1000000000000.0,
+        "maximum_size": 1000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 0.0,
+        "maximum_bandwidth": 0.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 262238,
+                "value": 100.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            },
+            {
+                "product": 262238,
+                "value": 0.15,
+                "unit": "size_gio_hour",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            }
+        ]
+    },
+    {
+        "id": 262240,
+        "company": 12,
+        "name": "block_1000",
+        "location": "nyc2",
+        "update_date": "2024-06-04T00:05:21.075057",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "block storage",
+        "size": 1000000000000.0,
+        "maximum_size": 1000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 0.0,
+        "maximum_bandwidth": 0.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 262240,
+                "value": 100.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            },
+            {
+                "product": 262240,
+                "value": 0.15,
+                "unit": "size_gio_hour",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            }
+        ]
+    },
+    {
+        "id": 262242,
+        "company": 12,
+        "name": "block_1000",
+        "location": "nyc3",
+        "update_date": "2024-06-04T00:05:21.075057",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "block storage",
+        "size": 1000000000000.0,
+        "maximum_size": 1000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 0.0,
+        "maximum_bandwidth": 0.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 262242,
+                "value": 100.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            },
+            {
+                "product": 262242,
+                "value": 0.15,
+                "unit": "size_gio_hour",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            }
+        ]
+    },
+    {
+        "id": 262244,
+        "company": 12,
+        "name": "block_1000",
+        "location": "sfo1",
+        "update_date": "2024-06-04T00:05:21.075057",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "block storage",
+        "size": 1000000000000.0,
+        "maximum_size": 1000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 0.0,
+        "maximum_bandwidth": 0.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 262244,
+                "value": 100.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            },
+            {
+                "product": 262244,
+                "value": 0.15,
+                "unit": "size_gio_hour",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            }
+        ]
+    },
+    {
+        "id": 262246,
+        "company": 12,
+        "name": "block_1000",
+        "location": "sfo2",
+        "update_date": "2024-06-04T00:05:21.075057",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "block storage",
+        "size": 1000000000000.0,
+        "maximum_size": 1000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 0.0,
+        "maximum_bandwidth": 0.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 262246,
+                "value": 100.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            },
+            {
+                "product": 262246,
+                "value": 0.15,
+                "unit": "size_gio_hour",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            }
+        ]
+    },
+    {
+        "id": 262248,
+        "company": 12,
+        "name": "block_1000",
+        "location": "sfo3",
+        "update_date": "2024-06-04T00:05:21.075057",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "block storage",
+        "size": 1000000000000.0,
+        "maximum_size": 1000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 0.0,
+        "maximum_bandwidth": 0.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 262248,
+                "value": 100.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            },
+            {
+                "product": 262248,
+                "value": 0.15,
+                "unit": "size_gio_hour",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            }
+        ]
+    },
+    {
+        "id": 262250,
+        "company": 12,
+        "name": "block_1000",
+        "location": "ams2",
+        "update_date": "2024-06-04T00:05:21.075057",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "block storage",
+        "size": 1000000000000.0,
+        "maximum_size": 1000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 0.0,
+        "maximum_bandwidth": 0.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 262250,
+                "value": 100.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            },
+            {
+                "product": 262250,
+                "value": 0.15,
+                "unit": "size_gio_hour",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            }
+        ]
+    },
+    {
+        "id": 262252,
+        "company": 12,
+        "name": "block_1000",
+        "location": "ams3",
+        "update_date": "2024-06-04T00:05:21.075057",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "block storage",
+        "size": 1000000000000.0,
+        "maximum_size": 1000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 0.0,
+        "maximum_bandwidth": 0.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 262252,
+                "value": 100.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            },
+            {
+                "product": 262252,
+                "value": 0.15,
+                "unit": "size_gio_hour",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            }
+        ]
+    },
+    {
+        "id": 262254,
+        "company": 12,
+        "name": "block_1000",
+        "location": "sgp1",
+        "update_date": "2024-06-04T00:05:21.075057",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "block storage",
+        "size": 1000000000000.0,
+        "maximum_size": 1000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 0.0,
+        "maximum_bandwidth": 0.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 262254,
+                "value": 100.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            },
+            {
+                "product": 262254,
+                "value": 0.15,
+                "unit": "size_gio_hour",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            }
+        ]
+    },
+    {
+        "id": 262256,
+        "company": 12,
+        "name": "block_1000",
+        "location": "lon1",
+        "update_date": "2024-06-04T00:05:21.075057",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "block storage",
+        "size": 1000000000000.0,
+        "maximum_size": 1000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 0.0,
+        "maximum_bandwidth": 0.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 262256,
+                "value": 100.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            },
+            {
+                "product": 262256,
+                "value": 0.15,
+                "unit": "size_gio_hour",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            }
+        ]
+    },
+    {
+        "id": 262258,
+        "company": 12,
+        "name": "block_1000",
+        "location": "fra1",
+        "update_date": "2024-06-04T00:05:21.075057",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "block storage",
+        "size": 1000000000000.0,
+        "maximum_size": 1000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 0.0,
+        "maximum_bandwidth": 0.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 262258,
+                "value": 0.15,
+                "unit": "size_gio_hour",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            },
+            {
+                "product": 262258,
+                "value": 100.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            }
+        ]
+    },
+    {
+        "id": 262260,
+        "company": 12,
+        "name": "block_1000",
+        "location": "tor1",
+        "update_date": "2024-06-04T00:05:21.075057",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "block storage",
+        "size": 1000000000000.0,
+        "maximum_size": 1000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 0.0,
+        "maximum_bandwidth": 0.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 262260,
+                "value": 100.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            },
+            {
+                "product": 262260,
+                "value": 0.15,
+                "unit": "size_gio_hour",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            }
+        ]
+    },
+    {
+        "id": 262262,
+        "company": 12,
+        "name": "block_1000",
+        "location": "syd1",
+        "update_date": "2024-06-04T00:05:21.075057",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "block storage",
+        "size": 1000000000000.0,
+        "maximum_size": 1000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 0.0,
+        "maximum_bandwidth": 0.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 262262,
+                "value": 100.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            },
+            {
+                "product": 262262,
+                "value": 0.15,
+                "unit": "size_gio_hour",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            }
+        ]
+    },
+    {
+        "id": 262264,
+        "company": 12,
+        "name": "block_1000",
+        "location": "blr1",
+        "update_date": "2024-06-04T00:05:21.075057",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "block storage",
+        "size": 1000000000000.0,
+        "maximum_size": 1000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 0.0,
+        "maximum_bandwidth": 0.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 262264,
+                "value": 100.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            },
+            {
+                "product": 262264,
+                "value": 0.15,
+                "unit": "size_gio_hour",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            }
+        ]
+    },
+    {
+        "id": 262266,
+        "company": 12,
+        "name": "object_storage",
+        "location": "nyc1",
+        "update_date": "2024-06-04T00:05:21.075057",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "block storage",
+        "size": 250000000000.0,
+        "maximum_size": 250000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 0.0,
+        "maximum_bandwidth": 0.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 262266,
+                "value": 5.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            }
+        ]
+    },
+    {
+        "id": 262268,
+        "company": 12,
+        "name": "object_storage",
+        "location": "nyc2",
+        "update_date": "2024-06-04T00:05:21.075057",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "block storage",
+        "size": 250000000000.0,
+        "maximum_size": 250000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 0.0,
+        "maximum_bandwidth": 0.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 262268,
+                "value": 5.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            }
+        ]
+    },
+    {
+        "id": 262270,
+        "company": 12,
+        "name": "object_storage",
+        "location": "nyc3",
+        "update_date": "2024-06-04T00:05:21.075057",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "block storage",
+        "size": 250000000000.0,
+        "maximum_size": 250000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 0.0,
+        "maximum_bandwidth": 0.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 262270,
+                "value": 5.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            }
+        ]
+    },
+    {
+        "id": 262272,
+        "company": 12,
+        "name": "object_storage",
+        "location": "sfo1",
+        "update_date": "2024-06-04T00:05:21.075057",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "block storage",
+        "size": 250000000000.0,
+        "maximum_size": 250000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 0.0,
+        "maximum_bandwidth": 0.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 262272,
+                "value": 5.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            }
+        ]
+    },
+    {
+        "id": 262274,
+        "company": 12,
+        "name": "object_storage",
+        "location": "sfo2",
+        "update_date": "2024-06-04T00:05:21.075057",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "block storage",
+        "size": 250000000000.0,
+        "maximum_size": 250000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 0.0,
+        "maximum_bandwidth": 0.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 262274,
+                "value": 5.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            }
+        ]
+    },
+    {
+        "id": 262276,
+        "company": 12,
+        "name": "object_storage",
+        "location": "sfo3",
+        "update_date": "2024-06-04T00:05:21.075057",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "block storage",
+        "size": 250000000000.0,
+        "maximum_size": 250000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 0.0,
+        "maximum_bandwidth": 0.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 262276,
+                "value": 5.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            }
+        ]
+    },
+    {
+        "id": 262278,
+        "company": 12,
+        "name": "object_storage",
+        "location": "ams2",
+        "update_date": "2024-06-04T00:05:21.075057",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "block storage",
+        "size": 250000000000.0,
+        "maximum_size": 250000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 0.0,
+        "maximum_bandwidth": 0.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 262278,
+                "value": 5.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            }
+        ]
+    },
+    {
+        "id": 262280,
+        "company": 12,
+        "name": "object_storage",
+        "location": "ams3",
+        "update_date": "2024-06-04T00:05:21.075057",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "block storage",
+        "size": 250000000000.0,
+        "maximum_size": 250000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 0.0,
+        "maximum_bandwidth": 0.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 262280,
+                "value": 5.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-06-04T00:05:21.075057"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "company": 1,
+        "name": "object storage - 250",
+        "location": "america.usa.washington",
+        "update_date": "2024-07-12T00:07:35.243391",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "object storage",
+        "size": 250000000000.0,
+        "maximum_size": 5000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 320000000000.0,
+        "maximum_bandwidth": 320000000000.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 1,
+                "value": 5.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-07-12T00:07:35.243391"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "company": 1,
+        "name": "object storage - 500",
+        "location": "america.usa.washington",
+        "update_date": "2024-07-12T00:07:35.243391",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "object storage",
+        "size": 500000000000.0,
+        "maximum_size": 5000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 320000000000.0,
+        "maximum_bandwidth": 320000000000.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 2,
+                "value": 10.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-07-12T00:07:35.243391"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "company": 1,
+        "name": "object storage - 1000",
+        "location": "america.usa.washington",
+        "update_date": "2024-07-12T00:07:35.243391",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "object storage",
+        "size": 1000000000000.0,
+        "maximum_size": 5000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 320000000000.0,
+        "maximum_bandwidth": 320000000000.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 3,
+                "value": 20.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-07-12T00:07:35.243391"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "company": 1,
+        "name": "object storage - 5000",
+        "location": "america.usa.washington",
+        "update_date": "2024-07-12T00:07:35.243391",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "object storage",
+        "size": 5000000000000.0,
+        "maximum_size": 5000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 320000000000.0,
+        "maximum_bandwidth": 320000000000.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 4,
+                "value": 100.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-07-12T00:07:35.243391"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "company": 1,
+        "name": "object storage - 10000",
+        "location": "america.usa.washington",
+        "update_date": "2024-07-12T00:07:35.243391",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "object storage",
+        "size": 10000000000000.0,
+        "maximum_size": 5000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 320000000000.0,
+        "maximum_bandwidth": 320000000000.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 5,
+                "value": 200.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-07-12T00:07:35.243391"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "company": 1,
+        "name": "object storage - 100000",
+        "location": "america.usa.washington",
+        "update_date": "2024-07-12T00:07:35.243391",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "object storage",
+        "size": 100000000000000.0,
+        "maximum_size": 5000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 320000000000.0,
+        "maximum_bandwidth": 320000000000.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 6,
+                "value": 2000.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-07-12T00:07:35.243391"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "company": 1,
+        "name": "object storage - 500000",
+        "location": "america.usa.washington",
+        "update_date": "2024-07-12T00:07:35.243391",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "object storage",
+        "size": 500000000000000.0,
+        "maximum_size": 5000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 320000000000.0,
+        "maximum_bandwidth": 320000000000.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 7,
+                "value": 10000.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-07-12T00:07:35.243391"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "company": 1,
+        "name": "object storage - 1000000",
+        "location": "america.usa.washington",
+        "update_date": "2024-07-12T00:07:35.243391",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "object storage",
+        "size": 1000000000000000.0,
+        "maximum_size": 5000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 320000000000.0,
+        "maximum_bandwidth": 320000000000.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 8,
+                "value": 20000.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-07-12T00:07:35.243391"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "company": 1,
+        "name": "object storage - 250",
+        "location": "america.usa.chicago",
+        "update_date": "2024-07-12T00:07:35.243391",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "object storage",
+        "size": 250000000000.0,
+        "maximum_size": 5000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 320000000000.0,
+        "maximum_bandwidth": 320000000000.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 9,
+                "value": 5.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-07-12T00:07:35.243391"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "company": 1,
+        "name": "object storage - 500",
+        "location": "america.usa.chicago",
+        "update_date": "2024-07-12T00:07:35.243391",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "object storage",
+        "size": 500000000000.0,
+        "maximum_size": 5000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 320000000000.0,
+        "maximum_bandwidth": 320000000000.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 10,
+                "value": 10.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-07-12T00:07:35.243391"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "company": 1,
+        "name": "object storage - 1000",
+        "location": "america.usa.chicago",
+        "update_date": "2024-07-12T00:07:35.243391",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "object storage",
+        "size": 1000000000000.0,
+        "maximum_size": 5000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 320000000000.0,
+        "maximum_bandwidth": 320000000000.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 11,
+                "value": 20.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-07-12T00:07:35.243391"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "company": 1,
+        "name": "object storage - 5000",
+        "location": "america.usa.chicago",
+        "update_date": "2024-07-12T00:07:35.243391",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "object storage",
+        "size": 5000000000000.0,
+        "maximum_size": 5000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 320000000000.0,
+        "maximum_bandwidth": 320000000000.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 12,
+                "value": 100.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-07-12T00:07:35.243391"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "company": 1,
+        "name": "object storage - 10000",
+        "location": "america.usa.chicago",
+        "update_date": "2024-07-12T00:07:35.243391",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "object storage",
+        "size": 10000000000000.0,
+        "maximum_size": 5000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 320000000000.0,
+        "maximum_bandwidth": 320000000000.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 13,
+                "value": 200.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-07-12T00:07:35.243391"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "company": 1,
+        "name": "object storage - 100000",
+        "location": "america.usa.chicago",
+        "update_date": "2024-07-12T00:07:35.243391",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "object storage",
+        "size": 100000000000000.0,
+        "maximum_size": 5000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 320000000000.0,
+        "maximum_bandwidth": 320000000000.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 14,
+                "value": 2000.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-07-12T00:07:35.243391"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "company": 1,
+        "name": "object storage - 500000",
+        "location": "america.usa.chicago",
+        "update_date": "2024-07-12T00:07:35.243391",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "object storage",
+        "size": 500000000000000.0,
+        "maximum_size": 5000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 320000000000.0,
+        "maximum_bandwidth": 320000000000.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 15,
+                "value": 10000.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-07-12T00:07:35.243391"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "company": 1,
+        "name": "object storage - 1000000",
+        "location": "america.usa.chicago",
+        "update_date": "2024-07-12T00:07:35.243391",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "object storage",
+        "size": 1000000000000000.0,
+        "maximum_size": 5000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 320000000000.0,
+        "maximum_bandwidth": 320000000000.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 16,
+                "value": 20000.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-07-12T00:07:35.243391"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "company": 1,
+        "name": "object storage - 250",
+        "location": "europe.france.paris",
+        "update_date": "2024-07-12T00:07:35.243391",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "object storage",
+        "size": 250000000000.0,
+        "maximum_size": 5000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 320000000000.0,
+        "maximum_bandwidth": 320000000000.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 17,
+                "value": 5.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-07-12T00:07:35.243391"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "company": 1,
+        "name": "object storage - 500",
+        "location": "europe.france.paris",
+        "update_date": "2024-07-12T00:07:35.243391",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "object storage",
+        "size": 500000000000.0,
+        "maximum_size": 5000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 320000000000.0,
+        "maximum_bandwidth": 320000000000.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 18,
+                "value": 10.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-07-12T00:07:35.243391"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "company": 1,
+        "name": "object storage - 1000",
+        "location": "europe.france.paris",
+        "update_date": "2024-07-12T00:07:35.243391",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "object storage",
+        "size": 1000000000000.0,
+        "maximum_size": 5000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 320000000000.0,
+        "maximum_bandwidth": 320000000000.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 19,
+                "value": 20.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-07-12T00:07:35.243391"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "company": 1,
+        "name": "object storage - 5000",
+        "location": "europe.france.paris",
+        "update_date": "2024-07-12T00:07:35.243391",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "object storage",
+        "size": 5000000000000.0,
+        "maximum_size": 5000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 320000000000.0,
+        "maximum_bandwidth": 320000000000.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 20,
+                "value": 100.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-07-12T00:07:35.243391"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "company": 1,
+        "name": "object storage - 10000",
+        "location": "europe.france.paris",
+        "update_date": "2024-07-12T00:07:35.243391",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "object storage",
+        "size": 10000000000000.0,
+        "maximum_size": 5000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 320000000000.0,
+        "maximum_bandwidth": 320000000000.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 21,
+                "value": 200.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-07-12T00:07:35.243391"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "company": 1,
+        "name": "object storage - 100000",
+        "location": "europe.france.paris",
+        "update_date": "2024-07-12T00:07:35.243391",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "object storage",
+        "size": 100000000000000.0,
+        "maximum_size": 5000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 320000000000.0,
+        "maximum_bandwidth": 320000000000.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 22,
+                "value": 2000.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-07-12T00:07:35.243391"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "company": 1,
+        "name": "object storage - 500000",
+        "location": "europe.france.paris",
+        "update_date": "2024-07-12T00:07:35.243391",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "object storage",
+        "size": 500000000000000.0,
+        "maximum_size": 5000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 320000000000.0,
+        "maximum_bandwidth": 320000000000.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 23,
+                "value": 10000.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-07-12T00:07:35.243391"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "company": 1,
+        "name": "object storage - 1000000",
+        "location": "europe.france.paris",
+        "update_date": "2024-07-12T00:07:35.243391",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "object storage",
+        "size": 1000000000000000.0,
+        "maximum_size": 5000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 320000000000.0,
+        "maximum_bandwidth": 320000000000.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 24,
+                "value": 20000.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-07-12T00:07:35.243391"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "company": 1,
+        "name": "object storage - 250",
+        "location": "america.usa.atlanta",
+        "update_date": "2024-07-12T00:07:35.243391",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "object storage",
+        "size": 250000000000.0,
+        "maximum_size": 5000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 320000000000.0,
+        "maximum_bandwidth": 320000000000.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 25,
+                "value": 5.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-07-12T00:07:35.243391"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "company": 1,
+        "name": "object storage - 500",
+        "location": "america.usa.atlanta",
+        "update_date": "2024-07-12T00:07:35.243391",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "object storage",
+        "size": 500000000000.0,
+        "maximum_size": 5000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 320000000000.0,
+        "maximum_bandwidth": 320000000000.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 26,
+                "value": 10.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-07-12T00:07:35.243391"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "company": 1,
+        "name": "object storage - 1000",
+        "location": "america.usa.atlanta",
+        "update_date": "2024-07-12T00:07:35.243391",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "object storage",
+        "size": 1000000000000.0,
+        "maximum_size": 5000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 320000000000.0,
+        "maximum_bandwidth": 320000000000.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 27,
+                "value": 20.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-07-12T00:07:35.243391"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "company": 1,
+        "name": "object storage - 5000",
+        "location": "america.usa.atlanta",
+        "update_date": "2024-07-12T00:07:35.243391",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "object storage",
+        "size": 5000000000000.0,
+        "maximum_size": 5000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 320000000000.0,
+        "maximum_bandwidth": 320000000000.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 28,
+                "value": 100.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-07-12T00:07:35.243391"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "company": 1,
+        "name": "object storage - 10000",
+        "location": "america.usa.atlanta",
+        "update_date": "2024-07-12T00:07:35.243391",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "object storage",
+        "size": 10000000000000.0,
+        "maximum_size": 5000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 320000000000.0,
+        "maximum_bandwidth": 320000000000.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 29,
+                "value": 200.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-07-12T00:07:35.243391"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "company": 1,
+        "name": "object storage - 100000",
+        "location": "america.usa.atlanta",
+        "update_date": "2024-07-12T00:07:35.243391",
+        "description": "",
+        "link": "",
+        "classtype": "StorageProductORM",
+        "family": "object storage",
+        "size": 100000000000000.0,
+        "maximum_size": 5000000000000.0,
+        "io": 0,
+        "maximum_io": 0,
+        "bandwidth": 320000000000.0,
+        "maximum_bandwidth": 320000000000.0,
+        "tags": [],
+        "prices": [
+            {
+                "product": 30,
+                "value": 2000.0,
+                "unit": "size_gio_month",
+                "currency": "USD",
+                "date": "2024-07-12T00:07:35.243391"
+            }
+        ]
+    }
+]

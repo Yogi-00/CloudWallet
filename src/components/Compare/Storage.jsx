@@ -44,7 +44,7 @@ function App() {
 
   const handleBandWidthStoChange = (event) => {
     setRangeBandWidthSto([Number(event.target.value)]);
-    console.log(event.target.value);
+    // console.log(event.target.value);
   };
 
   const handleInputChange = (event) => {
@@ -53,12 +53,12 @@ function App() {
 
   const handleCompanyChange = (selected) => {
     setSelectedCompany(selected || []);
-    console.log(selected);
+    // console.log(selected);
   };
 
   const handleLocationChange = (selected) => {
     setSelectedLocation(selected || []);
-    console.log(selected);
+    // console.log(selected);
   };
 
   function filteredData(
@@ -73,7 +73,7 @@ function App() {
     selectedLocation
   ) {
     let filteredStoOffers = Stooffers || [];
-    console.log(filteredStoOffers);
+    // console.log(filteredStoOffers);
     const companyMapping = {
       1: "linode",
       2: "ovh",
@@ -103,56 +103,56 @@ function App() {
         );
         return nameMatches || companyMatches || tagsMatch;
       });
-      console.log("query", filteredStoOffers);
+      // console.log("query", filteredStoOffers);
     }
 
     if (rangeSize) {
       filteredStoOffers = filteredStoOffers.filter(
         ({ size }) => size <= rangeSize
       );
-      console.log("size", filteredStoOffers);
+      // console.log("size", filteredStoOffers);
     }
 
     if (rangeIo) {
       filteredStoOffers = filteredStoOffers.filter(
         ({ io }) => io <= rangeIo * (1024 * 1024 * 1024)
       );
-      console.log("io", filteredStoOffers);
+      // console.log("io", filteredStoOffers);
     }
 
     if (rangeBandWidthSto) {
       filteredStoOffers = filteredStoOffers.filter(
         ({ bandwidth }) => bandwidth <= rangeBandWidthSto
       );
-      console.log("rangeBandWidthSto", filteredStoOffers);
+      // console.log("rangeBandWidthSto", filteredStoOffers);
     }
 
     if (selectedCompany.length > 0) {
       const selectedCompanyValues = selectedCompany.map(
         (company) => company.value
       );
-      console.log("selectedCompany", filteredStoOffers);
+      // console.log("selectedCompany", filteredStoOffers);
 
       filteredStoOffers = filteredStoOffers.filter(({ company }) => {
-        console.log(company);
+        // console.log(company);
         return selectedCompanyValues.includes(company);
       });
-      console.log("selectedCompany", filteredStoOffers);
+      // console.log("selectedCompany", filteredStoOffers);
     }
 
     if (selectedLocation.length > 0) {
-      console.log(selectedLocation);
+      // console.log(selectedLocation);
       const selectedLocationValues = selectedLocation.map(
         (location) => location.value
       );
-      console.log("selectedLocation", filteredStoOffers);
+      // console.log("selectedLocation", filteredStoOffers);
 
       filteredStoOffers = filteredStoOffers.filter((offer) => {
         return selectedLocationValues.includes(offer.location.toString());
       });
-      console.log("selectedLocation", filteredStoOffers);
+      // console.log("selectedLocation", filteredStoOffers);
     }
-    console.log(filteredStoOffers);
+    // console.log(filteredStoOffers);
     return filteredStoOffers.map(
       ({
         company,

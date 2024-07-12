@@ -15,19 +15,70 @@ function Card({
   internal_network_speed,
   external_network_speed,
 }) {
-  const companyNames = {
-    1: "linode",
-    2: "ovh",
-    3: "scaleway",
-    4: "upcloud",
-    5: "hetzner",
-    6: "aws",
-    7: "gcp",
-    8: "azure",
-    9: "infomaniak",
-    10: "oracle",
-    11: "aliyun",
-    12: "digital ocean",
+  const companyData = {
+    1: {
+      name: "linode",
+      logoSrc:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTDWTcJ-afL_cqGGsVRglN4haGov7-xfZ5gg&s",
+    },
+    2: {
+      name: "ovh",
+      logoSrc:
+        "https://x5h8w2v3.rocketcdn.me/wp-content/uploads/2022/07/ovhcloud-logo-1.png",
+    },
+    3: {
+      name: "scaleway",
+      logoSrc:
+        "https://x5h8w2v3.rocketcdn.me/wp-content/uploads/2020/09/FS-AFFI-00315Scaleway.png",
+    },
+    4: {
+      name: "upcloud",
+      logoSrc:
+        "https://pbs.twimg.com/profile_images/1089877713408557056/aO_IAlp__400x400.jpg",
+    },
+    5: {
+      name: "hetzner",
+      logoSrc:
+        "https://s3-eu-west-1.amazonaws.com/tpd/logos/4be8393a00006400050a0527/0x0.png",
+    },
+    6: {
+      name: "aws",
+      logoSrc:
+        "https://pixelbag.net/wp-content/uploads/2021/12/AWS-Logo-svg.jpg",
+    },
+    7: {
+      name: "gcp",
+      logoSrc:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3kzRQxItrOQk7ASBMrRm_oZoanTO1ajAD9w&s",
+    },
+    8: {
+      name: "azure",
+      logoSrc:
+        "https://www.appdynamics.com/c/r/appdynamics/solutions/azure-monitoring/index/jcr:content/Title/blade_copy_172843868/bladeContents1/image/image.img.png/1670878360555.png",
+    },
+    9: {
+      name: "infomaniak",
+      logoSrc:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTajFDJkrnILTfHGEBWhw5PUH8PevJCw-HHjA&s",
+    },
+    10: {
+      name: "oracle",
+      logoSrc:
+        "https://media.licdn.com/dms/image/D4D12AQECgQgddISstg/article-cover_image-shrink_720_1280/0/1667568847050?e=2147483647&v=beta&t=gXmfm-HwZHnvTHumdiNbz1V60Qp308u6U04CfQJZgfw",
+    },
+    11: {
+      name: "aliyun",
+      logoSrc: "https://img.stackshare.io/service/4207/Za8pS-nr_400x400.png",
+    },
+    12: {
+      name: "digital ocean",
+      logoSrc:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXml5H7LDVwh620USkOzUtIL2LDE1bzpZRqw&s",
+    },
+  };
+  const companyInfo = companyData[company] || {
+    name: "Unknown",
+    logoSrc: "https://example.com/default-logo.jpg",
   };
   const [isClicked, setIsClicked] = useState(false);
 
@@ -83,13 +134,13 @@ function Card({
           <div className="flex items-center gap-x-2">
             <img
               className="object-cover w-8 h-8 rounded-full"
-              src="https://pixelbag.net/wp-content/uploads/2021/12/AWS-Logo-svg.jpg"
-              alt=""
+              src={companyInfo.logoSrc}
+              alt={companyInfo.name}
             />
             <div>
               <h2 className="text-sm font-medium text-black">{name}</h2>
               <p className="text-xs font-normal text-black">
-                {companyNames[company]}
+                {companyInfo.name}
               </p>
             </div>
           </div>
