@@ -1,8 +1,8 @@
-import "./index.css";
-import TableSto from "./Table/TableSto";
-import Sidebar from "./Sidebar/SidebarSto";
-import Card from "./components/CardSto";
-import Search from "./Search/Search";
+import "../index.css";
+import TableSto from "../components/TableSto";
+import Sidebar from "../components/Compare/Sidebar/SidebarSto";
+import Card from "../components/Compare/components/CardSto";
+import Search from "../components/Search";
 
 import { useState, useEffect } from "react";
 

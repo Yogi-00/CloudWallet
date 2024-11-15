@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Link, NavLink } from "react-router-dom";
 import { useNavigate } from "react-router-dom";
 
-import logo from "../../assets/img/Clogo.jpg";
+import logo from "../assets/img/Clogo.jpg";
 
 export default function Header() {
   const navigate = useNavigate();
